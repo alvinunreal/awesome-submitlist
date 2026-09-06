@@ -6,7 +6,6 @@ import { writeFile, readFile } from "node:fs/promises";
 const CATALOG_URL = "https://api.submitlist.io/catalog/destinations";
 const SITE_URL = "https://submitlist.io";
 const CATALOG_PAGE = `${SITE_URL}/catalog`;
-const REPO_URL = "https://github.com/alvinunreal/awesome-submitlist";
 
 const SECTIONS = [
   {
@@ -14,64 +13,64 @@ const SECTIONS = [
     anchor: "directories",
     title: "Directories",
     icon: "type-directory.svg",
-    intro: "Curated listing sites. Most accept a URL, a short description, and a category. Sorted by Domain Rating, so the strongest links sit at the top.",
+    intro: "The classic move. Fill a form, wait for an editor, get a listing and usually a link. The top of this list is Trustpilot and the BBB territory, where a listing is a trust signal more than a traffic source. Further down are the maker directories that still send real visitors.",
   },
   {
     type: "product-launch-site",
     anchor: "product-launch-sites",
     title: "Product launch sites",
     icon: "type-launch.svg",
-    intro: "Launch-day platforms. Timing and the maker comment matter more than the form itself, so read each site's rules before you schedule.",
+    intro: "One day, one shot. Product Hunt is the obvious one and still the biggest. The rest are smaller but easier to win, and a top spot on a small launch site beats page four on a big one.",
   },
   {
     type: "newsletter",
     anchor: "newsletters",
     title: "Newsletters",
     icon: "type-newsletter.svg",
-    intro: "Maker and startup inboxes that feature products. Reader counts and open rates come from the newsletter's own public stats. There is rarely a form. Write to the editor.",
+    intro: "No form, no queue. You write to a human who curates an inbox that people actually open. Reader counts and open rates are the newsletter's own published numbers. Pitch short, pitch specific, and read three back issues first.",
   },
   {
     type: "community",
     anchor: "communities",
     title: "Communities",
     icon: "type-community.svg",
-    intro: "Forums and groups where posting your product is welcome when you follow the house rules. Lurk first.",
+    intro: "Forums and groups where showing your work is welcome as long as you are a member first and a marketer second. The good ones have long memories for drive-by promotion.",
   },
   {
     type: "subreddit",
     anchor: "subreddits",
     title: "Subreddits",
     icon: "type-subreddit.svg",
-    intro: "Niche reddit audiences. Every row carries the promotion route the moderators allow. \"Unknown\" means the rules do not say, so ask before you post.",
+    intro: "Reddit will bury a bad post and its author in about four minutes. Every entry says which route the moderators allow: a direct post, a weekly promotion thread, or comments only. When it says unknown, ask the mods before you post.",
   },
   {
     type: "marketplace",
     anchor: "marketplaces",
     title: "Marketplaces",
     icon: "type-marketplace.svg",
-    intro: "App, extension, and plugin stores. Listing here is a distribution channel in its own right, and the developer accounts are often paid.",
+    intro: "App, extension, and plugin stores. Listing here is distribution, not PR. Reviews take longer, developer accounts sometimes cost money, and once you are in, the store keeps sending users for years.",
   },
   {
     type: "citation",
     anchor: "citations",
     title: "Citations",
     icon: "type-citation.svg",
-    intro: "Places that mention products inside articles, lists, or profiles instead of running a directory. You earn the mention. The link tells you where to pitch.",
+    intro: "Places that do not run a directory but mention products inside articles, rankings, and profiles. Nobody accepts a submission here. You earn the mention, and the second line of each entry says what that takes.",
   },
 ];
 
 const PRICING_LABEL = { free: "Free", paid: "Paid", unknown: "" };
 const LINK_LABEL = { dofollow: "Dofollow", nofollow: "Nofollow", unknown: "" };
 const PROMOTION_LABEL = {
-  direct_post: "Direct post",
-  promotion_thread: "Promotion thread",
-  promo_thread: "Promotion thread",
-  recurring_thread: "Promotion thread",
-  "direct_post+promotion_thread": "Post or thread",
+  direct_post: "Direct posts OK",
+  promotion_thread: "Promotion thread only",
+  promo_thread: "Promotion thread only",
+  recurring_thread: "Promotion thread only",
+  "direct_post+promotion_thread": "Post or promotion thread",
   comments_only: "Comments only",
   restricted: "Restricted",
-  prohibited: "Prohibited",
-  unknown: "Unknown",
+  prohibited: "No promotion",
+  unknown: "Rules unclear",
 };
 const PLATFORM_LABEL = {
   beehiiv: "beehiiv",
@@ -95,18 +94,18 @@ function trimDecimal(value) {
   return value >= 10 ? String(Math.round(value)) : value.toFixed(1).replace(/\.0$/, "");
 }
 
-function cell(text) {
-  return String(text ?? "").replace(/\|/g, "\\|").replace(/\s+/g, " ").trim();
+function clean(text) {
+  return String(text ?? "").replace(/\s+/g, " ").trim();
 }
 
-function firstSentence(text, maxLength = 170) {
-  const clean = cell(text);
-  if (clean.length <= maxLength) return clean;
-  const cut = clean.slice(0, maxLength);
+function shorten(text, maxLength = 230) {
+  const value = clean(text);
+  if (value.length <= maxLength) return value;
+  const cut = value.slice(0, maxLength);
   const sentenceEnd = Math.max(cut.lastIndexOf(". "), cut.lastIndexOf("! "), cut.lastIndexOf("? "));
-  if (sentenceEnd > 60) return cut.slice(0, sentenceEnd + 1);
+  if (sentenceEnd > 80) return cut.slice(0, sentenceEnd + 1);
   const wordEnd = cut.lastIndexOf(" ");
-  return `${cut.slice(0, wordEnd > 60 ? wordEnd : maxLength).replace(/[,;:]$/, "")}…`;
+  return `${cut.slice(0, wordEnd > 80 ? wordEnd : maxLength).replace(/[,;:]$/, "")}…`;
 }
 
 function destinationLink(destination) {
@@ -121,8 +120,22 @@ function hostname(url) {
   }
 }
 
-function nameCell(destination) {
-  return `[${cell(destination.name)}](${destinationLink(destination)})`;
+function logo(destination) {
+  const src = destination.logo_url || `https://www.google.com/s2/favicons?domain=${hostname(destination.website_url)}&sz=64`;
+  return `<a href="${destinationLink(destination)}"><img src="${src}" width="16" height="16" alt=""></a>`;
+}
+
+function chips(values) {
+  return values.filter(Boolean).map((value) => `\`${value}\``).join(" ");
+}
+
+function entry(destination, chipValues, text, secondLine = "") {
+  const lines = [
+    `- ${logo(destination)} **[${clean(destination.name)}](${destinationLink(destination)})** ${chips(chipValues)}<br>`,
+    `  ${text}${secondLine ? "<br>" : ""}`,
+  ];
+  if (secondLine) lines.push(`  ${secondLine}`);
+  return lines.join("\n");
 }
 
 function byRatingThenName(a, b) {
@@ -146,82 +159,73 @@ function bySubscribersThenName(a, b) {
   return a.name.localeCompare(b.name);
 }
 
-function table(header, rows) {
-  const divider = header.map((label, index) => (index === 0 || label === "What it is" || label === "About" || label === "How to earn a mention" || label === "What it covers" ? "---" : ":---:"));
-  return [
-    `| ${header.join(" | ")} |`,
-    `| ${divider.join(" | ")} |`,
-    ...rows.map((row) => `| ${row.join(" | ")} |`),
-  ].join("\n");
+function trafficChip(destination) {
+  return destination.monthly_traffic ? `${compactNumber(destination.monthly_traffic)} visits/mo` : "";
 }
 
-function directoryTable(items) {
-  return table(
-    ["Site", "What it is", "DR", "Traffic", "Pricing", "Link"],
-    items.sort(byRatingThenName).map((d) => [
-      nameCell(d),
-      firstSentence(d.description),
-      d.domain_rating ?? "",
-      compactNumber(d.monthly_traffic),
-      PRICING_LABEL[d.pricing] ?? "",
-      LINK_LABEL[d.link_type] ?? "",
-    ]),
+function ratingChip(destination) {
+  return destination.domain_rating !== null && destination.domain_rating !== undefined ? `DR ${destination.domain_rating}` : "";
+}
+
+function directoryEntries(items) {
+  return items.sort(byRatingThenName).map((d) =>
+    entry(d, [ratingChip(d), trafficChip(d), PRICING_LABEL[d.pricing], LINK_LABEL[d.link_type]], shorten(d.description)),
   );
 }
 
-function newsletterTable(items) {
-  return table(
-    ["Newsletter", "What it covers", "Subscribers", "Opens", "Platform"],
-    items.sort(bySubscribersThenName).map((d) => [
-      nameCell(d),
-      firstSentence(d.description),
-      compactNumber(d.newsletter_subscribers),
-      d.newsletter_open_rate ? `${d.newsletter_open_rate}%` : "",
-      PLATFORM_LABEL[d.newsletter_platform] ?? cell(d.newsletter_platform ?? ""),
-    ]),
+function newsletterEntries(items) {
+  return items.sort(bySubscribersThenName).map((d) =>
+    entry(
+      d,
+      [
+        d.newsletter_subscribers ? `${compactNumber(d.newsletter_subscribers)} readers` : "",
+        d.newsletter_open_rate ? `${d.newsletter_open_rate}% open rate` : "",
+        PLATFORM_LABEL[d.newsletter_platform] ?? clean(d.newsletter_platform),
+      ],
+      shorten(d.description),
+    ),
   );
 }
 
-function subredditTable(items) {
-  return table(
-    ["Subreddit", "About", "Members", "30d growth", "Promotion"],
-    items.sort(byMembersThenName).map((d) => [
-      nameCell(d),
-      firstSentence(d.description),
-      compactNumber(d.subreddit?.members_count),
-      growthCell(d.subreddit),
-      PROMOTION_LABEL[d.subreddit?.promotion_mode] ?? cell((d.subreddit?.promotion_mode ?? "").replace(/_/g, " ")),
-    ]),
-  );
-}
-
-function growthCell(subreddit) {
+function growthChip(subreddit) {
   const growth = subreddit?.growth_30d_absolute;
   const members = subreddit?.members_count;
   if (!growth || !members) return "";
   const previous = members - growth;
-  if (previous <= 0) return `+${compactNumber(growth)}`;
+  if (previous <= 0) return `+${compactNumber(growth)} in 30d`;
   const percent = (growth / previous) * 100;
-  return `+${percent >= 10 ? Math.round(percent) : percent.toFixed(1)}%`;
+  return `+${percent >= 10 ? Math.round(percent) : percent.toFixed(1)}% in 30d`;
 }
 
-function citationTable(items) {
-  return table(
-    ["Source", "How to earn a mention", "DR", "Traffic", "Pricing"],
-    items.sort(byRatingThenName).map((d) => [
-      nameCell(d),
-      firstSentence(d.eligibility || d.description),
-      d.domain_rating ?? "",
-      compactNumber(d.monthly_traffic),
-      PRICING_LABEL[d.pricing] ?? "",
-    ]),
+function subredditEntries(items) {
+  return items.sort(byMembersThenName).map((d) =>
+    entry(
+      d,
+      [
+        d.subreddit?.members_count ? `${compactNumber(d.subreddit.members_count)} members` : "",
+        growthChip(d.subreddit),
+        PROMOTION_LABEL[d.subreddit?.promotion_mode] ?? clean((d.subreddit?.promotion_mode ?? "").replace(/_/g, " ")),
+      ],
+      shorten(d.description),
+    ),
   );
 }
 
-const TABLE_BY_TYPE = {
-  newsletter: newsletterTable,
-  subreddit: subredditTable,
-  citation: citationTable,
+function citationEntries(items) {
+  return items.sort(byRatingThenName).map((d) =>
+    entry(
+      d,
+      [ratingChip(d), trafficChip(d), PRICING_LABEL[d.pricing]],
+      shorten(d.description, 200),
+      d.eligibility ? `<sub>How to get in: ${shorten(d.eligibility, 260)}</sub>` : "",
+    ),
+  );
+}
+
+const ENTRIES_BY_TYPE = {
+  newsletter: newsletterEntries,
+  subreddit: subredditEntries,
+  citation: citationEntries,
 };
 
 function badge(label, value, color) {
@@ -241,23 +245,27 @@ function renderReadme(destinations, syncedOn) {
 
   const sections = SECTIONS.map((section) => {
     const items = groups[section.type];
-    const render = TABLE_BY_TYPE[section.type] ?? directoryTable;
+    const render = ENTRIES_BY_TYPE[section.type] ?? directoryEntries;
     return [
       `## <a name="${section.anchor}"></a><a href="${CATALOG_PAGE}?type=${section.type}"><img src="assets/${section.icon}" width="30" alt=""></a> ${section.title}`,
       "",
-      `<sub>${items.length} ${items.length === 1 ? "entry" : "entries"} · [browse with filters](${CATALOG_PAGE}?type=${section.type})</sub>`,
+      `<sub>${items.length} ${items.length === 1 ? "entry" : "entries"} · [filter and sort these on submitlist.io](${CATALOG_PAGE}?type=${section.type})</sub>`,
       "",
       section.intro,
       "",
-      render(items),
+      render(items).join("\n"),
       "",
       `<p align="right"><a href="#contents">back to contents ↑</a></p>`,
     ].join("\n");
   }).join("\n\n");
 
   return `<p align="center">
-  <a href="${SITE_URL}"><img src="assets/banner.png" alt="awesome-submitlist: 300+ places to submit your startup" width="920"></a>
+  <a href="${SITE_URL}"><img src="assets/hero.svg" alt="The Submitlist pigeon dispatching envelopes to directories, launch sites, newsletters, and communities" width="760"></a>
 </p>
+
+<h1 align="center">awesome-submitlist</h1>
+
+<p align="center"><b>${total} places to submit your startup.</b><br>Directories, launch sites, newsletters, communities, subreddits, marketplaces, and the press pages that mention products. With the numbers attached.</p>
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
@@ -271,9 +279,9 @@ function renderReadme(destinations, syncedOn) {
   <b><a href="${SITE_URL}">submitlist.io</a></b> · <a href="${CATALOG_PAGE}">Browse the catalog</a> · <a href="${SITE_URL}/guides">Guides</a> · <a href="#contributing">Suggest a site</a>
 </p>
 
-Every place a software product can be submitted, listed, launched, or mentioned, in one list. **${total} destinations** across ${SECTIONS.length} kinds, each with the metrics you actually decide on: Domain Rating, monthly organic traffic, price, and whether the link you get back is dofollow.
+You built the thing. Now where do you post it? Every list that answers this question is either five years stale, padded with dead domains, or a lead magnet for an agency. This one is none of those. It is generated from the live [Submitlist catalog](${CATALOG_PAGE}), where each site was opened by a person, checked for whether it still takes submissions, and tagged with the four numbers that decide if it is worth your afternoon: Ahrefs Domain Rating, monthly organic traffic, what it costs, and whether the backlink is dofollow.
 
-The list is generated from the live [Submitlist catalog](${CATALOG_PAGE}), the same data behind the app that tracks your submissions on a kanban board. Entries are hand-verified before they go in, metrics are re-audited, and dead or parked sites get archived instead of rotting here. ${highAuthority} destinations have a Domain Rating of 80 or higher, ${free} are free, and ${dofollow} hand back a dofollow link.
+Dead sites get archived and vanish from here on the next weekly sync. Right now ${highAuthority} of the ${total} destinations have a Domain Rating of 80 or higher, ${free} are free, and ${dofollow} give you a dofollow link. The pigeon keeps count.
 
 <img src="assets/pigeon-wave.svg" alt="" width="190" align="right">
 
@@ -281,17 +289,21 @@ The list is generated from the live [Submitlist catalog](${CATALOG_PAGE}), the s
 
 ${contents}
 
+- [How to read an entry](#how-to-read-an-entry)
 - [How this list is built](#how-this-list-is-built)
 - [Contributing](#contributing)
 
-## How to read the tables
+## How to read an entry
 
-- **DR** is Domain Rating by [Ahrefs](https://ahrefs.com), 0 to 100. Higher means the site's own backlink profile is stronger, so a link from it carries more weight.
-- **Traffic** is Ahrefs' estimate of monthly organic search visits to the whole site, not to your listing.
-- **Pricing** is what the listing itself costs. Free sites often sell a faster review or a featured slot on top.
-- **Link** says whether a listing's outbound link is dofollow or nofollow. Blank means it has not been checked yet.
-- **Promotion** on subreddits is the route the moderators allow: a direct post, a recurring promotion thread, or comments only.
-- Each table is sorted by DR (subreddits by members, newsletters by subscribers). Blank cells mean the data point is unknown, not zero.
+Each line is one destination. The name links straight to the submission page when there is one, otherwise to the site. The chips after it are the data:
+
+- \`DR 91\` is Domain Rating by [Ahrefs](https://ahrefs.com), 0 to 100. Higher means the site's own backlinks are stronger, so a link from it is worth more.
+- \`4.2M visits/mo\` is Ahrefs' estimate of monthly organic search traffic to the whole site, not to your listing.
+- \`Free\` or \`Paid\` is what the listing costs. Free sites often sell a faster review or a featured slot on top.
+- \`Dofollow\` or \`Nofollow\` is the kind of link a listing gives you. No chip means nobody has checked yet.
+- Newsletters show readers and open rate. Subreddits show members, 30-day growth, and the promotion route the mods allow.
+
+Sections are sorted by DR, subreddits by members, newsletters by readers. A missing chip means unknown, not zero.
 
 ${sections}
 
@@ -299,11 +311,11 @@ ${sections}
 
 <img src="assets/pigeon-clipboard.svg" alt="" width="210" align="right">
 
-The catalog lives in [Submitlist](${SITE_URL}), a free workspace for tracking startup and product submissions. Every destination there is added by hand: someone opens the site, confirms it still accepts submissions, records the eligibility rules and the pricing, and pulls Domain Rating and traffic from Ahrefs. Sites that go dead, parked, or stop accepting listings are archived and drop out of this list on the next sync.
+The catalog lives in [Submitlist](${SITE_URL}), a free workspace for tracking startup and product submissions. Nothing lands in it from a scrape. Someone opens the site, confirms it still accepts submissions, writes down the eligibility rules and the pricing, and pulls Domain Rating and traffic from Ahrefs. When a site dies, parks its domain, or stops taking listings, it gets archived, and the next sync drops it from this page.
 
-This README is rendered by [\`scripts/build-readme.js\`](scripts/build-readme.js) from the public catalog endpoint. A GitHub Action re-runs it every week, so the tables, counts, and badges above track production without anyone editing markdown by hand. The same data ships as [\`data/destinations.json\`](data/destinations.json) if you would rather script against it.
+This README is rendered by [\`scripts/build-readme.js\`](scripts/build-readme.js) from the public catalog endpoint. A GitHub Action re-runs it every Monday, so the entries, counts, and badges track production without anyone touching markdown. The same data ships as [\`data/destinations.json\`](data/destinations.json) if you would rather script against it than scroll.
 
-If you want more than a list, the app does the boring part: one launch kit with your copy and assets, a board that moves each site from *To submit* to *Listed*, and an MCP server so Claude Code, Codex, or opencode can research destinations, pick the right ones for your product, and move the cards for you. It is free. [Open Submitlist →](${SITE_URL})
+If you want more than a list, the app does the boring half: one launch kit holding your copy and assets, a board that moves each site from *To submit* to *Listed*, and an MCP server so Claude Code, Codex, or opencode can research destinations, pick the right ones for your product, and move the cards for you. It is free. [Open Submitlist](${SITE_URL})
 
 ## Contributing
 
@@ -312,7 +324,7 @@ Know a directory, launch site, newsletter, community, subreddit, or marketplace 
 1. **Suggest it in the app.** The [contact page](${SITE_URL}/contact) has a "Request a site for the catalog" form. It takes a URL and a note, and the request lands in the same review queue as everything else.
 2. **Open an issue here** using the *Suggest a destination* template. Include the submission URL and, if you know it, the price and whether links are dofollow.
 
-Do not send pull requests that edit \`README.md\` directly. It is generated and the next sync would overwrite your change. Fixes to the build script, the assets, or the docs are welcome as PRs. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Do not send pull requests that edit \`README.md\` directly. It is generated, and the next sync would overwrite your change. Fixes to the build script, the assets, or the docs are welcome as PRs. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
@@ -329,6 +341,7 @@ function publicSnapshot(destination) {
     type: destination.type,
     website_url: destination.website_url,
     submission_url: destination.submission_url || null,
+    logo_url: destination.logo_url || null,
     description: destination.description,
     audience: destination.audience || null,
     eligibility: destination.eligibility || null,
