@@ -283,9 +283,9 @@ You built the thing. Now where do you post it? Every list that answers this ques
 
 Dead sites get archived and vanish from here on the next weekly sync. Right now ${highAuthority} of the ${total} destinations have a Domain Rating of 80 or higher, ${free} are free, and ${dofollow} give you a dofollow link. The pigeon keeps count.
 
-<img src="assets/pigeon-wave.svg" alt="" width="190" align="right">
-
 ## Contents
+
+<img src="assets/pigeon-wave.svg" alt="" width="170" align="right">
 
 ${contents}
 

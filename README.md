@@ -22,9 +22,9 @@ You built the thing. Now where do you post it? Every list that answers this ques
 
 Dead sites get archived and vanish from here on the next weekly sync. Right now 105 of the 334 destinations have a Domain Rating of 80 or higher, 202 are free, and 158 give you a dofollow link. The pigeon keeps count.
 
-<img src="assets/pigeon-wave.svg" alt="" width="190" align="right">
-
 ## Contents
+
+<img src="assets/pigeon-wave.svg" alt="" width="170" align="right">
 
 - [Directories](#directories) <sub>118</sub>
 - [Product launch sites](#product-launch-sites) <sub>13</sub>
