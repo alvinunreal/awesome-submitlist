@@ -243,7 +243,7 @@ function renderReadme(destinations, syncedOn) {
     const items = groups[section.type];
     const render = TABLE_BY_TYPE[section.type] ?? directoryTable;
     return [
-      `## <img src="assets/${section.icon}" width="26" alt=""> ${section.title}`,
+      `## <a name="${section.anchor}"></a><a href="${CATALOG_PAGE}?type=${section.type}"><img src="assets/${section.icon}" width="26" alt=""></a> ${section.title}`,
       "",
       `<sub>${items.length} ${items.length === 1 ? "entry" : "entries"} · [browse with filters](${CATALOG_PAGE}?type=${section.type})</sub>`,
       "",
