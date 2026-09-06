@@ -1,0 +1,31 @@
+name: Sync catalog
+
+on:
+  schedule:
+    - cron: "17 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+      - name: Rebuild README and data from the live catalog
+        run: bun scripts/build-readme.js
+      - name: Commit when the catalog changed
+        run: |
+          if git diff --quiet -- README.md data/destinations.json; then
+            echo "Catalog unchanged, nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md data/destinations.json
+          git commit -m "chore: sync catalog $(date -u +%Y-%m-%d)"
+          git push

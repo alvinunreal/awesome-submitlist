@@ -1,0 +1,41 @@
+name: Suggest a destination
+description: Propose a directory, launch site, newsletter, community, subreddit, or marketplace that is missing.
+title: "Add: <site name>"
+labels: ["suggestion"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Submission URL
+      description: The page where a maker actually submits (not the homepage).
+      placeholder: https://example.com/submit
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Kind
+      options:
+        - Directory
+        - Product launch site
+        - Newsletter
+        - Community
+        - Subreddit
+        - Marketplace
+        - Citation (earn a mention, not a listing)
+    validations:
+      required: true
+  - type: dropdown
+    id: pricing
+    attributes:
+      label: Pricing
+      options:
+        - Free
+        - Paid
+        - Free with paid upgrades
+        - Not sure
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything a maker should know before submitting
+      description: Eligibility rules, review time, whether the link is dofollow, what assets the form asks for.

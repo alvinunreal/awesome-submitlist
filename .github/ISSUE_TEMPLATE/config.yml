@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Request through the Submitlist app
+    url: https://submitlist.io/contact
+    about: The contact page has a "Request a site for the catalog" form. It lands in the same review queue.
