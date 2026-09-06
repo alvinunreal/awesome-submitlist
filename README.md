@@ -42,7 +42,7 @@ The list is generated from the live [Submitlist catalog](https://submitlist.io/c
 - **Promotion** on subreddits is the route the moderators allow: a direct post, a recurring promotion thread, or comments only.
 - Each table is sorted by DR (subreddits by members, newsletters by subscribers). Blank cells mean the data point is unknown, not zero.
 
-## <a name="directories"></a><a href="https://submitlist.io/catalog?type=directory"><img src="assets/type-directory.svg" width="26" alt=""></a> Directories
+## <a name="directories"></a><a href="https://submitlist.io/catalog?type=directory"><img src="assets/type-directory.svg" width="30" alt=""></a> Directories
 
 <sub>118 entries · [browse with filters](https://submitlist.io/catalog?type=directory)</sub>
 
@@ -171,7 +171,7 @@ Curated listing sites. Most accept a URL, a short description, and a category. S
 
 <p align="right"><a href="#contents">back to contents ↑</a></p>
 
-## <a name="product-launch-sites"></a><a href="https://submitlist.io/catalog?type=product-launch-site"><img src="assets/type-launch.svg" width="26" alt=""></a> Product launch sites
+## <a name="product-launch-sites"></a><a href="https://submitlist.io/catalog?type=product-launch-site"><img src="assets/type-launch.svg" width="30" alt=""></a> Product launch sites
 
 <sub>13 entries · [browse with filters](https://submitlist.io/catalog?type=product-launch-site)</sub>
 
@@ -195,13 +195,13 @@ Launch-day platforms. Timing and the maker comment matter more than the form its
 
 <p align="right"><a href="#contents">back to contents ↑</a></p>
 
-## <a name="newsletters"></a><a href="https://submitlist.io/catalog?type=newsletter"><img src="assets/type-newsletter.svg" width="26" alt=""></a> Newsletters
+## <a name="newsletters"></a><a href="https://submitlist.io/catalog?type=newsletter"><img src="assets/type-newsletter.svg" width="30" alt=""></a> Newsletters
 
 <sub>37 entries · [browse with filters](https://submitlist.io/catalog?type=newsletter)</sub>
 
 Maker and startup inboxes that feature products. Reader counts and open rates come from the newsletter's own public stats. There is rarely a form. Write to the editor.
 
-| Newsletter | What it covers | Subscribers | Open rate | Platform |
+| Newsletter | What it covers | Subscribers | Opens | Platform |
 | --- | --- | :---: | :---: | :---: |
 | [Morning Brew](https://morningbrew.com) | Morning Brew is a daily email newsletter delivering concise updates on global business, finance, and technology news with a conversational, humorous tone. | 4M | 42% |  |
 | [1440](https://join1440.com) | 1440 is a daily news digest that curates fact-driven, unbiased news briefs across politics, business, science, and culture without opinion or clickbait. | 3.5M | 45% | beehiiv |
@@ -243,7 +243,7 @@ Maker and startup inboxes that feature products. Reader counts and open rates co
 
 <p align="right"><a href="#contents">back to contents ↑</a></p>
 
-## <a name="communities"></a><a href="https://submitlist.io/catalog?type=community"><img src="assets/type-community.svg" width="26" alt=""></a> Communities
+## <a name="communities"></a><a href="https://submitlist.io/catalog?type=community"><img src="assets/type-community.svg" width="30" alt=""></a> Communities
 
 <sub>24 entries · [browse with filters](https://submitlist.io/catalog?type=community)</sub>
 
@@ -278,7 +278,7 @@ Forums and groups where posting your product is welcome when you follow the hous
 
 <p align="right"><a href="#contents">back to contents ↑</a></p>
 
-## <a name="subreddits"></a><a href="https://submitlist.io/catalog?type=subreddit"><img src="assets/type-subreddit.svg" width="26" alt=""></a> Subreddits
+## <a name="subreddits"></a><a href="https://submitlist.io/catalog?type=subreddit"><img src="assets/type-subreddit.svg" width="30" alt=""></a> Subreddits
 
 <sub>44 entries · [browse with filters](https://submitlist.io/catalog?type=subreddit)</sub>
 
@@ -333,7 +333,7 @@ Niche reddit audiences. Every row carries the promotion route the moderators all
 
 <p align="right"><a href="#contents">back to contents ↑</a></p>
 
-## <a name="marketplaces"></a><a href="https://submitlist.io/catalog?type=marketplace"><img src="assets/type-marketplace.svg" width="26" alt=""></a> Marketplaces
+## <a name="marketplaces"></a><a href="https://submitlist.io/catalog?type=marketplace"><img src="assets/type-marketplace.svg" width="30" alt=""></a> Marketplaces
 
 <sub>26 entries · [browse with filters](https://submitlist.io/catalog?type=marketplace)</sub>
 
@@ -370,7 +370,7 @@ App, extension, and plugin stores. Listing here is a distribution channel in its
 
 <p align="right"><a href="#contents">back to contents ↑</a></p>
 
-## <a name="citations"></a><a href="https://submitlist.io/catalog?type=citation"><img src="assets/type-citation.svg" width="26" alt=""></a> Citations
+## <a name="citations"></a><a href="https://submitlist.io/catalog?type=citation"><img src="assets/type-citation.svg" width="30" alt=""></a> Citations
 
 <sub>72 entries · [browse with filters](https://submitlist.io/catalog?type=citation)</sub>
 

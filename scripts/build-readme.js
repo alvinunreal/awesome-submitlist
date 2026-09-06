@@ -171,7 +171,7 @@ function directoryTable(items) {
 
 function newsletterTable(items) {
   return table(
-    ["Newsletter", "What it covers", "Subscribers", "Open rate", "Platform"],
+    ["Newsletter", "What it covers", "Subscribers", "Opens", "Platform"],
     items.sort(bySubscribersThenName).map((d) => [
       nameCell(d),
       firstSentence(d.description),
@@ -243,7 +243,7 @@ function renderReadme(destinations, syncedOn) {
     const items = groups[section.type];
     const render = TABLE_BY_TYPE[section.type] ?? directoryTable;
     return [
-      `## <a name="${section.anchor}"></a><a href="${CATALOG_PAGE}?type=${section.type}"><img src="assets/${section.icon}" width="26" alt=""></a> ${section.title}`,
+      `## <a name="${section.anchor}"></a><a href="${CATALOG_PAGE}?type=${section.type}"><img src="assets/${section.icon}" width="30" alt=""></a> ${section.title}`,
       "",
       `<sub>${items.length} ${items.length === 1 ? "entry" : "entries"} · [browse with filters](${CATALOG_PAGE}?type=${section.type})</sub>`,
       "",
