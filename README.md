@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://submitlist.io"><img src="assets/hero.svg" alt="The Submitlist pigeon dispatching envelopes to directories, launch sites, newsletters, and communities" width="760"></a>
+  <a href="https://submitlist.io"><img src="assets/hero.svg" alt="A paper plane dropping envelopes into directory, launch, newsletter, community, and marketplace tiles, ending at a kanban board" width="820"></a>
 </p>
 
 <h1 align="center">awesome-submitlist</h1>
