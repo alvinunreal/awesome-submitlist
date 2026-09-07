@@ -4,12 +4,12 @@
 
 <h1 align="center">awesome-submitlist</h1>
 
-<p align="center"><b>334 places to submit your startup.</b><br>Directories, launch sites, newsletters, communities, subreddits, marketplaces, and the press pages that mention products. With the numbers attached.</p>
+<p align="center"><b>336 places to submit your startup.</b><br>Directories, launch sites, newsletters, communities, subreddits, marketplaces, and the press pages that mention products. With the numbers attached.</p>
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <a href="https://submitlist.io/catalog"><img src="https://img.shields.io/badge/destinations-334-6864e5?style=flat-square" alt="334 destinations"></a>
-  <a href="#how-this-list-is-built"><img src="https://img.shields.io/badge/synced-2026--09--06-6864e5?style=flat-square" alt="synced 2026-09-06"></a>
+  <a href="https://submitlist.io/catalog"><img src="https://img.shields.io/badge/destinations-336-6864e5?style=flat-square" alt="336 destinations"></a>
+  <a href="#how-this-list-is-built"><img src="https://img.shields.io/badge/synced-2026--09--07-6864e5?style=flat-square" alt="synced 2026-09-07"></a>
   <a href="#contributing"><img src="https://img.shields.io/badge/PRs-welcome-1f8a4c?style=flat-square" alt="PRs welcome"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC0%201.0-8b8b8b?style=flat-square" alt="CC0 1.0 license"></a>
 </p>
@@ -20,7 +20,7 @@
 
 You built the thing. Now where do you post it? Every list that answers this question is either five years stale, padded with dead domains, or a lead magnet for an agency. This one is none of those. It is generated from the live [Submitlist catalog](https://submitlist.io/catalog), where each site was opened by a person, checked for whether it still takes submissions, and tagged with the four numbers that decide if it is worth your afternoon: Ahrefs Domain Rating, monthly organic traffic, what it costs, and whether the backlink is dofollow.
 
-Dead sites get archived and vanish from here on the next weekly sync. Right now 105 of the 334 destinations have a Domain Rating of 80 or higher, 202 are free, and 158 give you a dofollow link. The pigeon keeps count.
+Dead sites get archived and vanish from here on the next weekly sync. Right now 105 of the 336 destinations have a Domain Rating of 80 or higher, 203 are free, and 158 give you a dofollow link. The pigeon keeps count.
 
 ## Contents
 
@@ -29,10 +29,10 @@ Dead sites get archived and vanish from here on the next weekly sync. Right now 
 - [Directories](#directories) <sub>118</sub>
 - [Product launch sites](#product-launch-sites) <sub>13</sub>
 - [Newsletters](#newsletters) <sub>37</sub>
-- [Communities](#communities) <sub>24</sub>
+- [Communities](#communities) <sub>25</sub>
 - [Subreddits](#subreddits) <sub>44</sub>
 - [Marketplaces](#marketplaces) <sub>26</sub>
-- [Citations](#citations) <sub>72</sub>
+- [Citations](#citations) <sub>73</sub>
 
 - [How to read an entry](#how-to-read-an-entry)
 - [How this list is built](#how-this-list-is-built)
@@ -415,7 +415,7 @@ No form, no queue. You write to a human who curates an inbox that people actuall
 
 ## <a name="communities"></a><a href="https://submitlist.io/catalog?type=community"><img src="assets/type-community.svg" width="30" alt=""></a> Communities
 
-<sub>24 entries · [filter and sort these on submitlist.io](https://submitlist.io/catalog?type=community)</sub>
+<sub>25 entries · [filter and sort these on submitlist.io](https://submitlist.io/catalog?type=community)</sub>
 
 Forums and groups where showing your work is welcome as long as you are a member first and a marketer second. The good ones have long memories for drive-by promotion.
 
@@ -457,6 +457,8 @@ Forums and groups where showing your work is welcome as long as you are a member
   Product School's Slack community for product managers to network, discuss product work, find answers, share knowledge, and discover industry opportunities.
 - <a href="https://www.fark.com/submit/"><img src="https://www.google.com/s2/favicons?domain=fark.com&sz=64" width="16" height="16" alt=""></a> **[Fark](https://www.fark.com/submit/)** `DR 73` `18K visits/mo` `Free` `Nofollow`<br>
   Community-curated news and entertainment aggregator where registered members submit noteworthy links for editorial selection and discussion.
+- <a href="https://trendshift.io"><img src="https://www.google.com/s2/favicons?domain=trendshift.io&sz=64" width="16" height="16" alt=""></a> **[Trendshift](https://trendshift.io)** `DR 63` `2K visits/mo`<br>
+  Trendshift tracks and showcases trending GitHub repositories and developers.
 - <a href="https://cofounderslab.com/"><img src="https://www.google.com/s2/favicons?domain=cofounderslab.com&sz=64" width="16" height="16" alt=""></a> **[CoFoundersLab](https://cofounderslab.com/)** `DR 62` `2.3K visits/mo` `Free` `Nofollow`<br>
   CoFoundersLab is an online networking community that connects entrepreneurs with potential cofounders, advisors, and investors through profiles and matching tools.
 - <a href="https://wip.co/projects"><img src="https://www.google.com/s2/favicons?domain=wip.co&sz=64" width="16" height="16" alt=""></a> **[WIP](https://wip.co/projects)** `DR 56` `1.3K visits/mo` `Paid` `Dofollow`<br>
@@ -630,7 +632,7 @@ App, extension, and plugin stores. Listing here is distribution, not PR. Reviews
 
 ## <a name="citations"></a><a href="https://submitlist.io/catalog?type=citation"><img src="assets/type-citation.svg" width="30" alt=""></a> Citations
 
-<sub>72 entries · [filter and sort these on submitlist.io](https://submitlist.io/catalog?type=citation)</sub>
+<sub>73 entries · [filter and sort these on submitlist.io](https://submitlist.io/catalog?type=citation)</sub>
 
 Places that do not run a directory but mention products inside articles, rankings, and profiles. Nobody accepts a submission here. You earn the mention, and the second line of each entry says what that takes.
 
@@ -793,6 +795,9 @@ Places that do not run a directory but mention products inside articles, ranking
 - <a href="https://thepitch.vccircle.com/"><img src="https://www.google.com/s2/favicons?domain=vccircle.com&sz=64" width="16" height="16" alt=""></a> **[VCCircle](https://thepitch.vccircle.com/)** `DR 77` `13K visits/mo` `Free`<br>
   VCCircle is an Indian publication covering alternative investments, deals, mergers and acquisitions, venture capital, private equity, and startups.<br>
   <sub>How to get in: Startups are shortlisted after nomination, pitch-deck review, and due diligence; selection and fees depend on funding stage and revenue category.</sub>
+- <a href="https://help.raindrop.io/public-page"><img src="https://www.google.com/s2/favicons?domain=raindrop.io&sz=64" width="16" height="16" alt=""></a> **[Raindrop.io](https://help.raindrop.io/public-page)** `DR 76` `8.8K visits/mo` `Free`<br>
+  Raindrop.io is a bookmark manager for organizing, sharing, and publishing collections of web links.<br>
+  <sub>How to get in: Any user can create a collection, add their website as a bookmark, and publish that collection to a public Raindrop page; this is a user-owned backlink route, not an official product-directory listing.</sub>
 - <a href="https://www.siteinspire.com/about"><img src="https://www.google.com/s2/favicons?domain=siteinspire.com&sz=64" width="16" height="16" alt=""></a> **[SiteInspire](https://www.siteinspire.com/about)** `DR 76` `62K visits/mo` `Free`<br>
   SiteInspire is a curated showcase of high-quality web design examples from around the world.<br>
   <sub>How to get in: Featured sites are selected on merit for innovative, aesthetically pleasing design, creativity, and visual quality; paid sponsorship does not buy inclusion.</sub>
@@ -876,4 +881,4 @@ Do not send pull requests that edit `README.md` directly. It is generated, and t
 
 [CC0 1.0](LICENSE). The list is public domain. Domain Rating figures are provided by Ahrefs under their [Domain Rating license](http://ahrefs.com/legal/domain-rating-license).
 
-<p align="center"><sub>Maintained by <a href="https://github.com/alvinunreal">Alvin</a> · Built from <a href="https://submitlist.io/catalog">submitlist.io/catalog</a> · Last synced 2026-09-06</sub></p>
+<p align="center"><sub>Maintained by <a href="https://github.com/alvinunreal">Alvin</a> · Built from <a href="https://submitlist.io/catalog">submitlist.io/catalog</a> · Last synced 2026-09-07</sub></p>

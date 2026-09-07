@@ -1,7 +1,7 @@
 {
   "source": "https://api.submitlist.io/catalog/destinations",
-  "synced_on": "2026-09-06",
-  "count": 334,
+  "synced_on": "2026-09-07",
+  "count": 336,
   "destinations": [
     {
       "slug": "acquire",
@@ -4827,6 +4827,26 @@
       }
     },
     {
+      "slug": "raindrop",
+      "name": "Raindrop.io",
+      "type": "citation",
+      "website_url": "https://raindrop.io",
+      "submission_url": "https://help.raindrop.io/public-page",
+      "logo_url": "https://www.google.com/s2/favicons?domain=raindrop.io&sz=64",
+      "description": "Raindrop.io is a bookmark manager for organizing, sharing, and publishing collections of web links.",
+      "audience": "Founders who want to publish a genuinely useful, themed public resource collection that includes their website for a relevant audience.",
+      "eligibility": "Any user can create a collection, add their website as a bookmark, and publish that collection to a public Raindrop page; this is a user-owned backlink route, not an official product-directory listing.",
+      "pricing": "free",
+      "pricing_note": "Public collections and sharing are available on the Free plan.",
+      "link_type": "unknown",
+      "domain_rating": 76,
+      "monthly_traffic": 8800,
+      "categories": [
+        "community",
+        "productivity"
+      ]
+    },
+    {
       "slug": "reactjs",
       "name": "r/reactjs",
       "type": "subreddit",
@@ -6533,6 +6553,26 @@
       "categories": [
         "business",
         "startup"
+      ]
+    },
+    {
+      "slug": "trendshift",
+      "name": "Trendshift",
+      "type": "community",
+      "website_url": "https://trendshift.io",
+      "submission_url": "https://trendshift.io",
+      "logo_url": "https://www.google.com/s2/favicons?domain=trendshift.io&sz=64",
+      "description": "Trendshift tracks and showcases trending GitHub repositories and developers.",
+      "audience": "Makers with a public GitHub repository who want it monitored and surfaced to people discovering trending open-source projects.",
+      "eligibility": "Submit a public GitHub repository that Trendshift is not already tracking by entering owner/repo or its GitHub URL. Submission starts monitoring and does not guarantee a prominent trending placement.",
+      "pricing": "unknown",
+      "pricing_note": "Trendshift does not publish a fee for repository submission. Its Signal API and advertising products are separate paid offerings.",
+      "link_type": "unknown",
+      "domain_rating": 63,
+      "monthly_traffic": 2000,
+      "categories": [
+        "community",
+        "developer-tools"
       ]
     },
     {
