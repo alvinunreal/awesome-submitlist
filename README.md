@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
   <a href="https://submitlist.io/catalog"><img src="https://img.shields.io/badge/destinations-339-6864e5?style=flat-square" alt="339 destinations"></a>
-  <a href="#how-this-list-is-built"><img src="https://img.shields.io/badge/synced-2026--09--28-6864e5?style=flat-square" alt="synced 2026-09-28"></a>
+  <a href="#how-this-list-is-built"><img src="https://img.shields.io/badge/synced-2026--10--05-6864e5?style=flat-square" alt="synced 2026-10-05"></a>
   <a href="#contributing"><img src="https://img.shields.io/badge/PRs-welcome-1f8a4c?style=flat-square" alt="PRs welcome"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC0%201.0-8b8b8b?style=flat-square" alt="CC0 1.0 license"></a>
 </p>
@@ -887,4 +887,4 @@ Do not send pull requests that edit `README.md` directly. It is generated, and t
 
 [CC0 1.0](LICENSE). The list is public domain. Domain Rating figures are provided by Ahrefs under their [Domain Rating license](http://ahrefs.com/legal/domain-rating-license).
 
-<p align="center"><sub>Maintained by <a href="https://github.com/alvinunreal">Alvin</a> · Built from <a href="https://submitlist.io/catalog">submitlist.io/catalog</a> · Last synced 2026-09-28</sub></p>
+<p align="center"><sub>Maintained by <a href="https://github.com/alvinunreal">Alvin</a> · Built from <a href="https://submitlist.io/catalog">submitlist.io/catalog</a> · Last synced 2026-10-05</sub></p>
