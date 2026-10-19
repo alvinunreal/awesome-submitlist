@@ -4,12 +4,12 @@
 
 <h1 align="center">awesome-submitlist</h1>
 
-<p align="center"><b>339 places to submit your startup.</b><br>Directories, launch sites, newsletters, communities, subreddits, marketplaces, and the press pages that mention products. With the numbers attached.</p>
+<p align="center"><b>1915 places to submit your startup.</b><br>Directories, launch sites, newsletters, communities, subreddits, marketplaces, and the press pages that mention products. With the numbers attached.</p>
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <a href="https://submitlist.io/catalog"><img src="https://img.shields.io/badge/destinations-339-6864e5?style=flat-square" alt="339 destinations"></a>
-  <a href="#how-this-list-is-built"><img src="https://img.shields.io/badge/synced-2026--10--12-6864e5?style=flat-square" alt="synced 2026-10-12"></a>
+  <a href="https://submitlist.io/catalog"><img src="https://img.shields.io/badge/destinations-1915-6864e5?style=flat-square" alt="1915 destinations"></a>
+  <a href="#how-this-list-is-built"><img src="https://img.shields.io/badge/synced-2026--10--19-6864e5?style=flat-square" alt="synced 2026-10-19"></a>
   <a href="#contributing"><img src="https://img.shields.io/badge/PRs-welcome-1f8a4c?style=flat-square" alt="PRs welcome"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC0%201.0-8b8b8b?style=flat-square" alt="CC0 1.0 license"></a>
 </p>
@@ -20,7 +20,7 @@
 
 You built the thing. Now where do you post it? Every list that answers this question is either five years stale, padded with dead domains, or a lead magnet for an agency. This one is none of those. It is generated from the live [Submitlist catalog](https://submitlist.io/catalog), where each site was opened by a person, checked for whether it still takes submissions, and tagged with the four numbers that decide if it is worth your afternoon: Ahrefs Domain Rating, monthly organic traffic, what it costs, and whether the backlink is dofollow.
 
-Dead sites get archived and vanish from here on the next weekly sync. Right now 105 of the 339 destinations have a Domain Rating of 80 or higher, 203 are free, and 158 give you a dofollow link. The pigeon keeps count.
+Dead sites get archived and vanish from here on the next weekly sync. Right now 123 of the 1915 destinations have a Domain Rating of 80 or higher, 220 are free, and 184 give you a dofollow link. The pigeon keeps count.
 
 ## Contents
 
@@ -31,7 +31,7 @@ Dead sites get archived and vanish from here on the next weekly sync. Right now 
 - [Newsletters](#newsletters) <sub>37</sub>
 - [Communities](#communities) <sub>25</sub>
 - [Subreddits](#subreddits) <sub>44</sub>
-- [Marketplaces](#marketplaces) <sub>27</sub>
+- [Marketplaces](#marketplaces) <sub>47</sub>
 - [Citations](#citations) <sub>73</sub>
 
 - [How to read an entry](#how-to-read-an-entry)
@@ -150,7 +150,7 @@ The classic move. Fill a form, wait for an editor, get a listing and usually a l
   SelectHub is a software selection and analyst research platform with product directories, comparisons, requirements tools, and vendor-buyer matching for business and enterprise software.
 - <a href="https://whatsthebigdata.com/submit-new-ai-tool/"><img src="https://www.google.com/s2/favicons?domain=whatsthebigdata.com&sz=64" width="16" height="16" alt=""></a> **[What's the Big Data](https://whatsthebigdata.com/submit-new-ai-tool/)** `DR 74` `95K visits/mo` `Free` `Nofollow`<br>
   What's the Big Data is an online destination for big-data, AI, and machine-learning news, guides, events, expert insights, and an AI-tools directory.
-- <a href="https://european-alternatives.eu/register"><img src="https://www.google.com/s2/favicons?domain=european-alternatives.eu&sz=64" width="16" height="16" alt=""></a> **[European Alternatives](https://european-alternatives.eu/register)** `DR 73` `44K visits/mo`<br>
+- <a href="https://european-alternatives.eu/register"><img src="https://www.google.com/s2/favicons?domain=european-alternatives.eu&sz=64" width="16" height="16" alt=""></a> **[European Alternatives](https://european-alternatives.eu/register)** `DR 73` `44K visits/mo` `Dofollow`<br>
   European Alternatives is a directory of European digital services and products, including cloud services and SaaS products.
 - <a href="https://land-book.com/submission-guidelines"><img src="https://www.google.com/s2/favicons?domain=land-book.com&sz=64" width="16" height="16" alt=""></a> **[Landbook](https://land-book.com/submission-guidelines)** `DR 73` `14K visits/mo` `Free` `Dofollow`<br>
   Landbook is a curated, daily updated gallery of hand-picked website designs for inspiration among creatives, designers, and marketers.
@@ -180,7 +180,7 @@ The classic move. Fill a form, wait for an editor, get a listing and usually a l
   OpenTools is a discovery hub cataloging AI tools, models, MCP servers, experts, and resources for builders.
 - <a href="https://saaspirate.com/submit-saas/"><img src="https://www.google.com/s2/favicons?domain=saaspirate.com&sz=64" width="16" height="16" alt=""></a> **[SaaSPirate](https://saaspirate.com/submit-saas/)** `DR 68` `1.9K visits/mo` `Dofollow`<br>
   SaaSPirate is a platform that curates and lists SaaS lifetime deals, discounts, and software for entrepreneurs and businesses.
-- <a href="https://aitools.inc/submit"><img src="https://aitools.inc/icon-512.png" width="16" height="16" alt=""></a> **[AI Tools](https://aitools.inc/submit)** `DR 67` `23K visits/mo` `Free`<br>
+- <a href="https://aitools.inc/submit"><img src="https://aitools.inc/icon-512.png" width="16" height="16" alt=""></a> **[AI Tools](https://aitools.inc/submit)** `DR 67` `23K visits/mo` `Free` `Dofollow`<br>
   AI-tool discovery directory organized by use case, task, job role, category, and pricing, with product profiles, educational material, and an associated AI-automation community.
 - <a href="https://www.jasminedirectory.com/index.php?a=2070753691"><img src="https://www.google.com/s2/favicons?domain=jasminedirectory.com&sz=64" width="16" height="16" alt=""></a> **[Jasmine Directory](https://www.jasminedirectory.com/index.php?a=2070753691)** `DR 67` `4K visits/mo` `Paid` `Dofollow`<br>
   Jasmine Directory is a human-curated web directory of businesses and websites with editorial review.
@@ -214,13 +214,13 @@ The classic move. Fill a form, wait for an editor, get a listing and usually a l
   Aitoolnet is a large AI tools directory and search engine that catalogs tens of thousands of curated AI tools by use case and category.
 - <a href="https://aitoptools.com/claim-your-tool/"><img src="https://www.google.com/s2/favicons?domain=aitoptools.com&sz=64" width="16" height="16" alt=""></a> **[AITopTools](https://aitoptools.com/claim-your-tool/)** `DR 54` `27K visits/mo` `Paid` `Nofollow`<br>
   AITopTools is an AI-tools directory with curated tool listings, categories, new tools, and user reviews.
-- <a href="https://www.ezilon.com/general_url_submission.htm"><img src="https://www.google.com/s2/favicons?domain=ezilon.com&sz=64" width="16" height="16" alt=""></a> **[Ezilon](https://www.ezilon.com/general_url_submission.htm)** `DR 54` `32K visits/mo` `Paid`<br>
+- <a href="https://www.ezilon.com/general_url_submission.htm"><img src="https://www.google.com/s2/favicons?domain=ezilon.com&sz=64" width="16" height="16" alt=""></a> **[Ezilon](https://www.ezilon.com/general_url_submission.htm)** `DR 54` `32K visits/mo` `Paid` `Dofollow`<br>
   Ezilon is a human-reviewed regional web directory with Europe-wide business, software, internet-service, education, and government categories.
-- <a href="https://affiliate.watch/submit-affiliate-program"><img src="https://www.google.com/s2/favicons?domain=affiliate.watch&sz=64" width="16" height="16" alt=""></a> **[Affiliate Watch](https://affiliate.watch/submit-affiliate-program)** `DR 53` `19K visits/mo` `Free`<br>
+- <a href="https://affiliate.watch/submit-affiliate-program"><img src="https://www.google.com/s2/favicons?domain=affiliate.watch&sz=64" width="16" height="16" alt=""></a> **[Affiliate Watch](https://affiliate.watch/submit-affiliate-program)** `DR 53` `19K visits/mo` `Free` `Nofollow`<br>
   Affiliate-program discovery directory with categorized program profiles, commission details, reviews, ratings, networks, software, and submission options for program owners.
 - <a href="https://saasaitools.com/submit-listing-2/"><img src="https://www.google.com/s2/favicons?domain=saasaitools.com&sz=64" width="16" height="16" alt=""></a> **[Saas AI Tools](https://saasaitools.com/submit-listing-2/)** `DR 53` `3.5K visits/mo` `Free` `Dofollow`<br>
   Saas AI Tools is a directory of generative AI and SaaS tools with daily AI news for founders and builders.
-- <a href="https://slpads.framer.website/contact"><img src="https://saaslandingpage.com/wp-content/themes/saaslandingpage/dist/images/apple-touch-icon.png" width="16" height="16" alt=""></a> **[SaaS Landing Page](https://slpads.framer.website/contact)** `DR 53` `30K visits/mo` `Paid`<br>
+- <a href="https://slpads.framer.website/contact"><img src="https://saaslandingpage.com/wp-content/themes/saaslandingpage/dist/images/apple-touch-icon.png" width="16" height="16" alt=""></a> **[SaaS Landing Page](https://slpads.framer.website/contact)** `DR 53` `30K visits/mo` `Paid` `Nofollow`<br>
   Curated gallery of SaaS landing pages, product pages, pricing pages, onboarding screens, and other interface examples for design inspiration.
 - <a href="https://aitoolsdirectory.com/submit-tool"><img src="https://www.google.com/s2/favicons?domain=aitoolsdirectory.com&sz=64" width="16" height="16" alt=""></a> **[AI Tools Directory](https://aitoolsdirectory.com/submit-tool)** `DR 52` `26K visits/mo` `Free` `Nofollow`<br>
   AI Tools Directory is a curated directory of AI software and tools for entrepreneurs, creators, and innovators.
@@ -236,37 +236,37 @@ The classic move. Fill a form, wait for an editor, get a listing and usually a l
   VentureRadar is a global innovative-company database used by corporations, investors, and partners to research companies.
 - <a href="https://appagg.com/add/"><img src="https://www.google.com/s2/favicons?domain=appagg.com&sz=64" width="16" height="16" alt=""></a> **[AppAgg](https://appagg.com/add/)** `DR 50` `3.8K visits/mo` `Free` `Dofollow`<br>
   AppAgg is an independent app aggregator that indexes apps and games from major mobile, desktop, and console stores for discovery, deals, rankings, and lists.
-- <a href="https://www.tapscape.com/submit-app-review/"><img src="https://www.tapscape.com/wp-content/uploads/2018/07/tapscapeicons.png" width="16" height="16" alt=""></a> **[Tapscape](https://www.tapscape.com/submit-app-review/)** `DR 50` `10K visits/mo` `Paid`<br>
+- <a href="https://www.tapscape.com/submit-app-review/"><img src="https://www.tapscape.com/wp-content/uploads/2018/07/tapscapeicons.png" width="16" height="16" alt=""></a> **[Tapscape](https://www.tapscape.com/submit-app-review/)** `DR 50` `10K visits/mo` `Paid` `Dofollow`<br>
   Technology publication offering professionally written reviews of iPhone, iPad, Mac, and Android applications with store, company, video, and social links.
 - <a href="https://www.cuspera.com/vendors"><img src="https://www.google.com/s2/favicons?domain=cuspera.com&sz=64" width="16" height="16" alt=""></a> **[Cuspera](https://www.cuspera.com/vendors)** `DR 49` `4.8K visits/mo` `Free` `Nofollow`<br>
   AI-assisted business software discovery directory where vendors can create profile pages and be recommended to buyers by use case.
-- <a href="https://www.microsaasexamples.com/submit"><img src="https://www.microsaasexamples.com/apple-touch-icon.png" width="16" height="16" alt=""></a> **[Micro SaaS Examples](https://www.microsaasexamples.com/submit)** `DR 49` `1.8K visits/mo` `Paid`<br>
+- <a href="https://www.microsaasexamples.com/submit"><img src="https://www.microsaasexamples.com/apple-touch-icon.png" width="16" height="16" alt=""></a> **[Micro SaaS Examples](https://www.microsaasexamples.com/submit)** `DR 49` `1.8K visits/mo` `Paid` `Nofollow`<br>
   Curated directory of profitable micro-SaaS products and ideas, organized by category, audience, business model, and adjacent opportunities.
 - <a href="https://www.stork.ai/submit"><img src="https://www.google.com/s2/favicons?domain=stork.ai&sz=64" width="16" height="16" alt=""></a> **[Stork.AI](https://www.stork.ai/submit)** `DR 48` `21K visits/mo` `Free` `Nofollow`<br>
   Stork.AI is an AI tools, agents, and MCP directory with multi-language listings and agent discoverability.
-- <a href="https://www.toools.design/suggest-a-tool"><img src="https://www.google.com/s2/favicons?domain=toools.design&sz=64" width="16" height="16" alt=""></a> **[TOOOLS.design](https://www.toools.design/suggest-a-tool)** `DR 47` `6.9K visits/mo` `Free`<br>
+- <a href="https://www.toools.design/suggest-a-tool"><img src="https://www.google.com/s2/favicons?domain=toools.design&sz=64" width="16" height="16" alt=""></a> **[TOOOLS.design](https://www.toools.design/suggest-a-tool)** `DR 47` `6.9K visits/mo` `Free` `Dofollow`<br>
   Curated directory of more than 2,200 design resources spanning AI, UI and UX, icons, illustrations, inspiration, typography, productivity, marketing, and web builders.
 - <a href="https://altern.ai/maker/submit/start"><img src="https://www.google.com/s2/favicons?domain=altern.ai&sz=64" width="16" height="16" alt=""></a> **[Altern](https://altern.ai/maker/submit/start)** `DR 46` `1.5K visits/mo` `Free` `Dofollow`<br>
   Altern is a curated AI directory and marketplace for tools, agents, models, and APIs with a Maker submission path.
-- <a href="https://github.com/marcelscruz/public-apis/blob/main/CONTRIBUTING.md"><img src="https://publicapis.dev/favicon-pa/apple-touch-icon.png" width="16" height="16" alt=""></a> **[PublicAPIs.dev](https://github.com/marcelscruz/public-apis/blob/main/CONTRIBUTING.md)** `DR 45` `4.4K visits/mo` `Free`<br>
+- <a href="https://github.com/marcelscruz/public-apis/blob/main/CONTRIBUTING.md"><img src="https://publicapis.dev/favicon-pa/apple-touch-icon.png" width="16" height="16" alt=""></a> **[PublicAPIs.dev](https://github.com/marcelscruz/public-apis/blob/main/CONTRIBUTING.md)** `DR 45` `4.4K visits/mo` `Free` `Nofollow`<br>
   Collaborative directory of publicly documented, self-serve APIs organized by category with authentication and CORS details for developers.
 - <a href="https://www.tipseason.com/ai-tools/submit-free"><img src="https://www.google.com/s2/favicons?domain=tipseason.com&sz=64" width="16" height="16" alt=""></a> **[TipSeason](https://www.tipseason.com/ai-tools/submit-free)** `DR 44` `1.3K visits/mo` `Free` `Dofollow`<br>
   TipSeason runs an AI-tools directory alongside prompts and courses.
 - <a href="https://startupbuffer.com/site/submit"><img src="https://www.google.com/s2/favicons?domain=startupbuffer.com&sz=64" width="16" height="16" alt=""></a> **[Startup Buffer](https://startupbuffer.com/site/submit)** `DR 43` `2K visits/mo` `Free` `Dofollow`<br>
   Startup Buffer is a public startup directory organized by market, location, tags, and related products, with founder-submitted profiles that go through review.
-- <a href="https://thataicollection.com/submit/"><img src="https://thataicollection.com/favicon.ico" width="16" height="16" alt=""></a> **[That AI Collection](https://thataicollection.com/submit/)** `DR 43` `1K visits/mo` `Paid`<br>
+- <a href="https://thataicollection.com/submit/"><img src="https://thataicollection.com/favicon.ico" width="16" height="16" alt=""></a> **[That AI Collection](https://thataicollection.com/submit/)** `DR 43` `1K visits/mo` `Paid` `Dofollow`<br>
   Multilingual discovery directory covering more than 4,000 AI applications across writing, design, development, marketing, audio, video, productivity, and other use cases.
 - <a href="https://appscribed.com/submit-ai-tool/"><img src="https://www.google.com/s2/favicons?domain=appscribed.com&sz=64" width="16" height="16" alt=""></a> **[Appscribed](https://appscribed.com/submit-ai-tool/)** `DR 42` `1.7K visits/mo` `Paid` `Dofollow`<br>
   Appscribed is an AI tools directory with curated listings, hand-written editorial reviews, and comparisons.
 - <a href="https://bestofai.com/"><img src="https://www.google.com/s2/favicons?domain=bestofai.com&sz=64" width="16" height="16" alt=""></a> **[BestofAI](https://bestofai.com/)** `DR 42` `5.8K visits/mo` `Free` `Dofollow`<br>
   BestofAI is a curated AI-tools directory with more than 15,000 products across more than 100 categories.
-- <a href="https://www.dark.design/auth/login"><img src="https://www.dark.design/favicon.avif" width="16" height="16" alt=""></a> **[Dark](https://www.dark.design/auth/login)** `DR 42` `1.7K visits/mo` `Free`<br>
+- <a href="https://www.dark.design/auth/login"><img src="https://www.dark.design/favicon.avif" width="16" height="16" alt=""></a> **[Dark](https://www.dark.design/auth/login)** `DR 42` `1.7K visits/mo` `Free` `Dofollow`<br>
   Curated dark-website design gallery organized across agency, AI, culture, personal, software, web3, and other visual categories.
-- <a href="https://tailkits.com/submit-product/"><img src="https://tailkits.com/favicon.png" width="16" height="16" alt=""></a> **[Tailkits](https://tailkits.com/submit-product/)** `DR 42` `10K visits/mo` `Free`<br>
+- <a href="https://tailkits.com/submit-product/"><img src="https://tailkits.com/favicon.png" width="16" height="16" alt=""></a> **[Tailkits](https://tailkits.com/submit-product/)** `DR 42` `10K visits/mo` `Free` `Nofollow`<br>
   Curated Tailwind CSS marketplace and directory covering templates, UI kits, components, tools, generators, and production-ready design resources.
-- <a href="https://www.darkmodedesign.com/"><img src="https://www.google.com/s2/favicons?domain=darkmodedesign.com&sz=64" width="16" height="16" alt=""></a> **[Dark Mode Design](https://www.darkmodedesign.com/)** `DR 40` `1.3K visits/mo` `Free`<br>
+- <a href="https://www.darkmodedesign.com/"><img src="https://www.google.com/s2/favicons?domain=darkmodedesign.com&sz=64" width="16" height="16" alt=""></a> **[Dark Mode Design](https://www.darkmodedesign.com/)** `DR 40` `1.3K visits/mo` `Free` `Dofollow`<br>
   Curated gallery of dark-mode websites and interface inspiration spanning product, portfolio, agency, ecommerce, editorial, and application design.
-- <a href="https://www.llmrelevance.com/submit"><img src="https://www.llmrelevance.com/favicon/android-chrome-192x192.png" width="16" height="16" alt=""></a> **[LLM Relevance](https://www.llmrelevance.com/submit)** `DR 38` `1K visits/mo` `Free`<br>
+- <a href="https://www.llmrelevance.com/submit"><img src="https://www.llmrelevance.com/favicon/android-chrome-192x192.png" width="16" height="16" alt=""></a> **[LLM Relevance](https://www.llmrelevance.com/submit)** `DR 38` `1K visits/mo` `Free` `Dofollow`<br>
   AI and SEO tool directory for discovering software, comparing use cases, and browsing free tools for small-business marketing workflows.
 - <a href="https://findmyaitool.com/submit-tool"><img src="https://www.google.com/s2/favicons?domain=findmyaitool.com&sz=64" width="16" height="16" alt=""></a> **[Find My AI tool](https://findmyaitool.com/submit-tool)** `DR 37` `12K visits/mo` `Paid` `Dofollow`<br>
   Find My AI tool is a directory of more than 2,500 AI tools, GPTs, and agents organized by category, industry, and pricing model.
@@ -274,25 +274,25 @@ The classic move. Fill a form, wait for an editor, get a listing and usually a l
   Curated AI-tool directory with human-written lifetime profile pages, category and feature filters, pricing information, target audiences, integrations, models, and editorial completeness scores.
 - <a href="https://aiparabellum.com/submit-your-ai-tool/"><img src="https://www.google.com/s2/favicons?domain=aiparabellum.com&sz=64" width="16" height="16" alt=""></a> **[AI Parabellum](https://aiparabellum.com/submit-your-ai-tool/)** `DR 34` `1.2K visits/mo` `Paid` `Dofollow`<br>
   AI Parabellum is a paid, manually reviewed AI-tools directory that lists approved tools on a dedicated page.
-- <a href="https://whattheai.tech/submit"><img src="https://whattheai.tech/WTAILogo.png" width="16" height="16" alt=""></a> **[WhatTheAI](https://whattheai.tech/submit)** `DR 34` `22K visits/mo` `Free`<br>
+- <a href="https://whattheai.tech/submit"><img src="https://whattheai.tech/WTAILogo.png" width="16" height="16" alt=""></a> **[WhatTheAI](https://whattheai.tech/submit)** `DR 34` `22K visits/mo` `Free` `Dofollow`<br>
   AI tool directory for discovering and comparing products across categories, platforms, pricing models, and use cases.
 - <a href="https://powerusers.ai/submit-ai-tool/"><img src="https://www.google.com/s2/favicons?domain=powerusers.ai&sz=64" width="16" height="16" alt=""></a> **[Powerusers AI](https://powerusers.ai/submit-ai-tool/)** `DR 33` `2.3K visits/mo` `Paid` `Dofollow`<br>
   Powerusers AI is a curated directory of AI tools for business owners and entrepreneurs, with filters, personal lists, and related guides.
-- <a href="https://thestartupinc.com/submit-startup/"><img src="https://thestartupinc.com/wp-content/uploads/2018/03/the-startup-inc.jpg" width="16" height="16" alt=""></a> **[The Startup INC](https://thestartupinc.com/submit-startup/)** `DR 33` `1.8K visits/mo` `Paid`<br>
+- <a href="https://thestartupinc.com/submit-startup/"><img src="https://thestartupinc.com/wp-content/uploads/2018/03/the-startup-inc.jpg" width="16" height="16" alt=""></a> **[The Startup INC](https://thestartupinc.com/submit-startup/)** `DR 33` `1.8K visits/mo` `Paid` `Nofollow`<br>
   Startup listing website publishing company profiles for discovery by founders, customers, and investors.
-- <a href="https://toptools.ai/submit"><img src="https://www.google.com/s2/favicons?domain=toptools.ai&sz=64" width="16" height="16" alt=""></a> **[TopTools.ai](https://toptools.ai/submit)** `DR 30` `1.3K visits/mo` `Free`<br>
+- <a href="https://toptools.ai/submit"><img src="https://www.google.com/s2/favicons?domain=toptools.ai&sz=64" width="16" height="16" alt=""></a> **[TopTools.ai](https://toptools.ai/submit)** `DR 30` `1.3K visits/mo` `Free` `Dofollow`<br>
   AI tools directory organizing product profiles across thirty categories including agents, chatbots, design, marketing, research, coding, video, audio, and productivity.
 - <a href="https://startupproject.org/submit-startup/"><img src="https://startupproject.org/favicon.ico" width="16" height="16" alt=""></a> **[The Startup Project](https://startupproject.org/submit-startup/)** `DR 21` `1K visits/mo` `Free`<br>
   Founder resource hub with a curated startup directory alongside free templates, tools, guides, learning paths, and investor resources.
 - <a href="https://ai-hunter.io/submit-a-tool/"><img src="https://ai-hunter.io/wp-content/uploads/2024/03/ai-hunter-favicon.png" width="16" height="16" alt=""></a> **[AI-Hunter.io](https://ai-hunter.io/submit-a-tool/)** `DR 20` `1.4K visits/mo` `Free`<br>
   AI-tool discovery directory covering thousands of products across business, content, development, image, video, productivity, research, and other AI categories.
-- <a href="https://tally.so/r/w4Jb4b"><img src="https://www.google.com/s2/favicons?domain=lachief.io&sz=64" width="16" height="16" alt=""></a> **[Lachief](https://tally.so/r/w4Jb4b)** `DR 20` `11K visits/mo` `Free`<br>
+- <a href="https://tally.so/r/w4Jb4b"><img src="https://www.google.com/s2/favicons?domain=lachief.io&sz=64" width="16" height="16" alt=""></a> **[Lachief](https://tally.so/r/w4Jb4b)** `DR 20` `11K visits/mo` `Free` `Dofollow`<br>
   AI tool directory for discovering software across writing, productivity, marketing, design, development, and other use cases.
 - <a href="https://www.theainavigator.com/submit-an-ai-tool"><img src="https://www.google.com/s2/favicons?domain=theainavigator.com&sz=64" width="16" height="16" alt=""></a> **[The AI Navigator](https://www.theainavigator.com/submit-an-ai-tool)** `DR 19` `7.5K visits/mo` `Dofollow`<br>
   The AI Navigator is an AI-tools guide and directory with reviewed listings.
 - <a href="https://startupheroes.io/submit/startup/"><img src="https://www.google.com/s2/favicons?domain=startupheroes.io&sz=64" width="16" height="16" alt=""></a> **[Startup Heroes](https://startupheroes.io/submit/startup/)** `DR 14` `1.1K visits/mo` `Paid`<br>
   Manually reviewed startup directory with company profiles organized by industry, technology category, country, region, and founding year.
-- <a href="https://toolspedia.io/submit-tool/"><img src="https://toolspedia.io/wp-content/uploads/2023/01/ToolsPedia-AI-Fevion-image-300x300.png" width="16" height="16" alt=""></a> **[ToolsPedia](https://toolspedia.io/submit-tool/)** `DR 13` `1.4K visits/mo` `Paid`<br>
+- <a href="https://toolspedia.io/submit-tool/"><img src="https://toolspedia.io/wp-content/uploads/2023/01/ToolsPedia-AI-Fevion-image-300x300.png" width="16" height="16" alt=""></a> **[ToolsPedia](https://toolspedia.io/submit-tool/)** `DR 13` `1.4K visits/mo` `Paid` `Dofollow`<br>
   AI tools directory with thousands of categorized product pages, discovery collections, browser-extension listings, and featured placements.
 - <a href="https://www.brouseai.com/submission/ai"><img src="https://www.google.com/s2/favicons?domain=brouseai.com&sz=64" width="16" height="16" alt=""></a> **[BroUseAI](https://www.brouseai.com/submission/ai)** `DR 10` `38K visits/mo` `Free` `Dofollow`<br>
   AI tool directory for discovering categorized products, featured tools, new releases, pricing models, use cases, and AI terminology.
@@ -313,7 +313,7 @@ One day, one shot. Product Hunt is the obvious one and still the biggest. The re
   Curated showcase of upcoming internet startups where early adopters discover and get early access to new products before launch.
 - <a href="https://www.uneed.best/submit-a-tool"><img src="https://www.google.com/s2/favicons?domain=uneed.best&sz=64" width="16" height="16" alt=""></a> **[Uneed](https://www.uneed.best/submit-a-tool)** `DR 75` `7.9K visits/mo` `Paid` `Dofollow`<br>
   Uneed is a curated social launchpad and product-discovery directory where makers launch technology products for daily homepage exposure, community upvoting, and rankings.
-- <a href="https://webrazzi.com/en/startup-form/"><img src="https://www.google.com/s2/favicons?domain=webrazzi.com&sz=64" width="16" height="16" alt=""></a> **[Webrazzi](https://webrazzi.com/en/startup-form/)** `DR 74` `16K visits/mo` `Free`<br>
+- <a href="https://webrazzi.com/en/startup-form/"><img src="https://www.google.com/s2/favicons?domain=webrazzi.com&sz=64" width="16" height="16" alt=""></a> **[Webrazzi](https://webrazzi.com/en/startup-form/)** `DR 74` `16K visits/mo` `Free` `Dofollow`<br>
   Technology publication covering startups, digital business, investments, acquisitions, mobile products, and internet companies, with a strong Turkish audience.
 - <a href="https://peerpush.com/"><img src="https://www.google.com/s2/favicons?domain=peerpush.net&sz=64" width="16" height="16" alt=""></a> **[PeerPush](https://peerpush.com/)** `DR 73` `6K visits/mo` `Free` `Dofollow`<br>
   PeerPush is a community-driven product-launch and discovery platform with structured product listings, rankings, and permanent listing pages.
@@ -329,7 +329,7 @@ One day, one shot. Product Hunt is the obvious one and still the biggest. The re
   DevHunt is an open-source, community-driven Product Hunt-style launchpad focused exclusively on developer tools.
 - <a href="https://www.startupranking.com/startup/create"><img src="https://www.google.com/s2/favicons?domain=startupranking.com&sz=64" width="16" height="16" alt=""></a> **[Startup Ranking](https://www.startupranking.com/startup/create)** `DR 62` `11K visits/mo` `Free` `Dofollow`<br>
   Startup Ranking is a platform that discovers and ranks startups worldwide using an SR Score based on web importance and social influence, with country and state rankings.
-- <a href="https://www.launchvault.dev/projects/submit"><img src="https://www.launchvault.dev/logo.svg" width="16" height="16" alt=""></a> **[Launch Vault](https://www.launchvault.dev/projects/submit)** `DR 55` `1.1K visits/mo` `Paid`<br>
+- <a href="https://www.launchvault.dev/projects/submit"><img src="https://www.launchvault.dev/logo.svg" width="16" height="16" alt=""></a> **[Launch Vault](https://www.launchvault.dev/projects/submit)** `DR 55` `1.1K visits/mo` `Paid` `Dofollow`<br>
   Curated daily product-launch platform where makers publish technology products, receive votes, and compete for discovery placements.
 
 <p align="right"><a href="#contents">back to contents ↑</a></p>
@@ -423,7 +423,7 @@ No form, no queue. You write to a human who curates an inbox that people actuall
 
 Forums and groups where showing your work is welcome as long as you are a member first and a marketer second. The good ones have long memories for drive-by promotion.
 
-- <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=64" width="16" height="16" alt=""></a> **[GitHub Topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics)** `DR 97` `46M visits/mo` `Free`<br>
+- <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=64" width="16" height="16" alt=""></a> **[GitHub Topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics)** `DR 97` `46M visits/mo` `Free` `Nofollow`<br>
   GitHub's public topic system groups repositories by technology, subject, industry, and community-defined interests to support project discovery.
 - <a href="https://help.pinterest.com/en/business/article/get-a-business-account"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=64" width="16" height="16" alt=""></a> **[Pinterest](https://help.pinterest.com/en/business/article/get-a-business-account)** `DR 97` `550M visits/mo` `Free` `Nofollow`<br>
   Pinterest is a visual discovery and social platform where users save and share ideas via Pins and boards.
@@ -453,15 +453,15 @@ Forums and groups where showing your work is welcome as long as you are a member
   Indie Hackers is a community where independent founders and makers share milestones, strategies, and products for building online businesses.
 - <a href="https://www.biggerpockets.com/signup"><img src="https://www.google.com/s2/favicons?domain=biggerpockets.com&sz=64" width="16" height="16" alt=""></a> **[BiggerPockets](https://www.biggerpockets.com/signup)** `DR 80` `54K visits/mo` `Free`<br>
   Real-estate investing community with public forums, member profiles, educational articles, podcasts, tools, events, and property-related discussions.
-- <a href="https://www.designspiration.com/"><img src="https://www.google.com/s2/favicons?domain=designspiration.com&sz=64" width="16" height="16" alt=""></a> **[Designspiration](https://www.designspiration.com/)** `DR 78` `35K visits/mo` `Free`<br>
+- <a href="https://www.designspiration.com/"><img src="https://www.google.com/s2/favicons?domain=designspiration.com&sz=64" width="16" height="16" alt=""></a> **[Designspiration](https://www.designspiration.com/)** `DR 78` `35K visits/mo` `Free` `Nofollow`<br>
   Visual discovery community for collecting and publishing design inspiration, colors, links, notes, screenshots, and uploaded creative work.
-- <a href="https://startup.startupgrind.com/apply/"><img src="https://www.google.com/s2/favicons?domain=startupgrind.com&sz=64" width="16" height="16" alt=""></a> **[Startup Grind](https://startup.startupgrind.com/apply/)** `DR 76` `17K visits/mo` `Free`<br>
+- <a href="https://startup.startupgrind.com/apply/"><img src="https://www.google.com/s2/favicons?domain=startupgrind.com&sz=64" width="16" height="16" alt=""></a> **[Startup Grind](https://startup.startupgrind.com/apply/)** `DR 76` `17K visits/mo` `Free` `Nofollow`<br>
   Global startup community operating local chapters, founder events, a vetted startup membership, investor introductions, and startup resources.
 - <a href="https://productschool.com/slack-community/"><img src="https://www.google.com/s2/favicons?domain=productschool.com&sz=64" width="16" height="16" alt=""></a> **[Product School Community](https://productschool.com/slack-community/)** `DR 74` `55K visits/mo` `Free`<br>
   Product School's Slack community for product managers to network, discuss product work, find answers, share knowledge, and discover industry opportunities.
 - <a href="https://www.fark.com/submit/"><img src="https://www.google.com/s2/favicons?domain=fark.com&sz=64" width="16" height="16" alt=""></a> **[Fark](https://www.fark.com/submit/)** `DR 73` `18K visits/mo` `Free` `Nofollow`<br>
   Community-curated news and entertainment aggregator where registered members submit noteworthy links for editorial selection and discussion.
-- <a href="https://trendshift.io"><img src="https://www.google.com/s2/favicons?domain=trendshift.io&sz=64" width="16" height="16" alt=""></a> **[Trendshift](https://trendshift.io)** `DR 63` `2K visits/mo`<br>
+- <a href="https://trendshift.io"><img src="https://www.google.com/s2/favicons?domain=trendshift.io&sz=64" width="16" height="16" alt=""></a> **[Trendshift](https://trendshift.io)** `DR 63` `2K visits/mo` `Dofollow`<br>
   Trendshift tracks and showcases trending GitHub repositories and developers.
 - <a href="https://cofounderslab.com/"><img src="https://www.google.com/s2/favicons?domain=cofounderslab.com&sz=64" width="16" height="16" alt=""></a> **[CoFoundersLab](https://cofounderslab.com/)** `DR 62` `2.3K visits/mo` `Free` `Nofollow`<br>
   CoFoundersLab is an online networking community that connects entrepreneurs with potential cofounders, advisors, and investors through profiles and matching tools.
@@ -471,7 +471,7 @@ Forums and groups where showing your work is welcome as long as you are a member
   The Hive Index is a directory of online communities organized by topic, platform, and features.
 - <a href="https://unita.co/add-community/"><img src="https://www.google.com/s2/favicons?domain=unita.co&sz=64" width="16" height="16" alt=""></a> **[Unita](https://unita.co/add-community/)** `DR 47` `4K visits/mo` `Free` `Dofollow`<br>
   Unita is a directory for discovering, comparing, and reviewing online communities and groups.
-- <a href="https://www.applauncher.io/auth/register"><img src="https://www.applauncher.io/static/images/app-launcher-favicon/apple-touch-icon.png" width="16" height="16" alt=""></a> **[AppLauncher](https://www.applauncher.io/auth/register)** `DR 14` `6.7K visits/mo` `Free`<br>
+- <a href="https://www.applauncher.io/auth/register"><img src="https://www.applauncher.io/static/images/app-launcher-favicon/apple-touch-icon.png" width="16" height="16" alt=""></a> **[AppLauncher](https://www.applauncher.io/auth/register)** `DR 14` `6.7K visits/mo` `Free` `Nofollow`<br>
   Product-launch platform and launch feed for indie developers and startups, with listing, brand-kit, SEO, audience, analytics, and multi-directory submission tools.
 
 <p align="right"><a href="#contents">back to contents ↑</a></p>
@@ -575,7 +575,7 @@ Reddit will bury a bad post and its author in about four minutes. Every entry sa
 
 ## <a name="marketplaces"></a><a href="https://submitlist.io/catalog?type=marketplace"><img src="assets/type-marketplace.svg" width="30" alt=""></a> Marketplaces
 
-<sub>27 entries · [filter and sort these on submitlist.io](https://submitlist.io/catalog?type=marketplace)</sub>
+<sub>47 entries · [filter and sort these on submitlist.io](https://submitlist.io/catalog?type=marketplace)</sub>
 
 App, extension, and plugin stores. Listing here is distribution, not PR. Reviews take longer, developer accounts sometimes cost money, and once you are in, the store keeps sending users for years.
 
@@ -583,51 +583,91 @@ App, extension, and plugin stores. Listing here is distribution, not PR. Reviews
   Google's marketplace for add-ons, Chat apps, Drive apps, Classroom integrations, and web applications that extend Google Workspace.
 - <a href="https://chrome.google.com/webstore/devconsole"><img src="https://www.google.com/s2/favicons?domain=chromewebstore.google.com&sz=64" width="16" height="16" alt=""></a> **[Chrome Web Store](https://chrome.google.com/webstore/devconsole)** `DR 99` `20M visits/mo` `Paid` `Dofollow`<br>
   Google's official online marketplace where users discover, install, and manage Chrome browser extensions, themes, and related items.
+- <a href="https://wordpress.org/plugins/developers/add/"><img src="https://www.google.com/s2/favicons?domain=wordpress.org&sz=64" width="16" height="16" alt=""></a> **[WordPress Plugin Directory](https://wordpress.org/plugins/developers/add/)** `DR 97` `1.6M visits/mo` `Free` `Nofollow`<br>
+  WordPress Plugin Directory distributes WordPress plugins through public listings that users can discover and install.
 - <a href="https://extensionworkshop.com/documentation/publish/submitting-an-add-on/"><img src="https://www.google.com/s2/favicons?domain=addons.mozilla.org&sz=64" width="16" height="16" alt=""></a> **[Firefox Add-ons](https://extensionworkshop.com/documentation/publish/submitting-an-add-on/)** `DR 96` `1.5M visits/mo` `Free` `Nofollow`<br>
   Mozilla's official catalog for Firefox browser extensions and themes, where users discover, review, and install add-ons.
+- <a href="https://learn.microsoft.com/en-us/microsoft-edge/extensions/publish/publish-extension"><img src="https://www.google.com/s2/favicons?domain=microsoftedge.microsoft.com&sz=64" width="16" height="16" alt=""></a> **[Microsoft Edge Add-ons](https://learn.microsoft.com/en-us/microsoft-edge/extensions/publish/publish-extension)** `DR 96` `285K visits/mo` `Free` `Dofollow`<br>
+  Microsoft Edge Add-ons distributes browser extensions through searchable public listings and installation in Microsoft Edge.
 - <a href="https://learn.microsoft.com/en-us/partner-center/marketplace-offers/submit-to-appsource-via-partner-center"><img src="https://www.google.com/s2/favicons?domain=marketplace.microsoft.com&sz=64" width="16" height="16" alt=""></a> **[Microsoft Marketplace](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/submit-to-appsource-via-partner-center)** `DR 96` `375K visits/mo` `Free` `Dofollow`<br>
   Microsoft's marketplace for SaaS, Microsoft 365, Teams, Copilot, Power BI, Dynamics, Azure, and other business software offers.
 - <a href="https://learn.microsoft.com/en-us/windows/apps/publish/partner-center/open-a-developer-account"><img src="https://www.google.com/s2/favicons?domain=apps.microsoft.com&sz=64" width="16" height="16" alt=""></a> **[Microsoft Store](https://learn.microsoft.com/en-us/windows/apps/publish/partner-center/open-a-developer-account)** `DR 96` `18M visits/mo` `Free`<br>
   Microsoft's consumer storefront for discovering and installing Windows applications, games, and other supported digital products.
 - <a href="https://shopify.dev/docs/apps/launch/app-store-review/submit-app-for-review"><img src="https://www.google.com/s2/favicons?domain=apps.shopify.com&sz=64" width="16" height="16" alt=""></a> **[Shopify App Store](https://shopify.dev/docs/apps/launch/app-store-review/submit-app-for-review)** `DR 96` `505K visits/mo` `Paid` `Dofollow`<br>
   Shopify's marketplace for public applications that help merchants operate, market, customize, and grow their online stores.
+- <a href="https://dev.wix.com/docs/build-apps/launch-your-app/app-distribution/submit-your-first-app-version"><img src="https://www.google.com/s2/favicons?domain=wix.com&sz=64" width="16" height="16" alt=""></a> **[Wix App Market](https://dev.wix.com/docs/build-apps/launch-your-app/app-distribution/submit-your-first-app-version)** `DR 95` `7.3M visits/mo` `Free`<br>
+  Wix App Market distributes apps for Wix sites and business services through public listings that users can discover and install.
+- <a href="https://addons.opera.com/developer/upload/"><img src="https://www.google.com/s2/favicons?domain=addons.opera.com&sz=64" width="16" height="16" alt=""></a> **[Opera Add-ons](https://addons.opera.com/developer/upload/)** `DR 94` `474K visits/mo` `Free` `Nofollow`<br>
+  Opera Add-ons distributes Opera browser extensions through public listings that users can discover and install.
 - <a href="https://developers.zoom.us/docs/distribute/"><img src="https://www.google.com/s2/favicons?domain=marketplace.zoom.us&sz=64" width="16" height="16" alt=""></a> **[Zoom App Marketplace](https://developers.zoom.us/docs/distribute/)** `DR 94` `35K visits/mo` `Free` `Nofollow`<br>
   Zoom's marketplace for apps and integrations that add meeting, team chat, contact-center, phone, event, and workflow capabilities.
+- <a href="https://www.canva.com/developers/apps"><img src="https://www.google.com/s2/favicons?domain=canva.com&sz=64" width="16" height="16" alt=""></a> **[Canva Apps Marketplace](https://www.canva.com/developers/apps)** `DR 93` `267M visits/mo` `Free`<br>
+  Canva Apps Marketplace distributes apps inside the Canva editor through public listings that users can discover and install.
+- <a href="https://platform.openai.com/plugins"><img src="https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64" width="16" height="16" alt=""></a> **[ChatGPT Plugin Directory](https://platform.openai.com/plugins)** `DR 93` `1B visits/mo` `Dofollow`<br>
+  OpenAI’s public plugin directory lets users discover and install integrations for ChatGPT and Codex, including MCP servers with optional interactive interfaces and skills.
 - <a href="https://developers.hubspot.com/docs/apps/developer-platform/list-apps/listing-your-app/app-marketplace-listing-requirements"><img src="https://www.google.com/s2/favicons?domain=ecosystem.hubspot.com&sz=64" width="16" height="16" alt=""></a> **[HubSpot App Marketplace](https://developers.hubspot.com/docs/apps/developer-platform/list-apps/listing-your-app/app-marketplace-listing-requirements)** `DR 93` `71K visits/mo` `Free` `Dofollow`<br>
   HubSpot's marketplace for applications and integrations that extend its CRM, marketing, sales, service, content, operations, and commerce products.
 - <a href="https://marketplace.atlassian.com/"><img src="https://www.google.com/s2/favicons?domain=marketplace.atlassian.com&sz=64" width="16" height="16" alt=""></a> **[Atlassian Marketplace](https://marketplace.atlassian.com/)** `DR 92` `101K visits/mo` `Free` `Nofollow`<br>
   Atlassian Marketplace lists third-party apps that integrate with and extend Jira, Confluence, and other Atlassian products.
+- <a href="https://help.figma.com/hc/en-us/articles/360042293394-Publish-classic-plugins-to-the-Figma-Community"><img src="https://www.google.com/s2/favicons?domain=figma.com&sz=64" width="16" height="16" alt=""></a> **[Figma Community](https://help.figma.com/hc/en-us/articles/360042293394-Publish-classic-plugins-to-the-Figma-Community)** `DR 92` `11M visits/mo` `Free`<br>
+  Figma Community distributes Figma plugins and widgets through public listings that users can discover and install.
 - <a href="https://api.slack.com/apps"><img src="https://www.google.com/s2/favicons?domain=slack.com&sz=64" width="16" height="16" alt=""></a> **[Slack App Directory](https://api.slack.com/apps)** `DR 92` `4.5M visits/mo` `Free` `Dofollow`<br>
   Slack is a channel-based collaboration platform with a third-party App Marketplace for integrations and workflow tools.
 - <a href="https://code.visualstudio.com/api/working-with-extensions/publishing-extension"><img src="https://marketplace.visualstudio.com/favicon.ico" width="16" height="16" alt=""></a> **[Visual Studio Marketplace](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)** `DR 92` `212K visits/mo` `Free` `Dofollow`<br>
   Microsoft's marketplace for Visual Studio Code extensions and other Visual Studio and Azure DevOps integrations.
+- <a href="https://developers.webflow.com/submit"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=64" width="16" height="16" alt=""></a> **[Webflow Apps Marketplace](https://developers.webflow.com/submit)** `DR 92` `1M visits/mo` `Free`<br>
+  Webflow Apps Marketplace distributes Webflow Designer extensions and data integrations through public listings that users can discover and install.
+- <a href="https://www.framer.com/help/articles/how-to-publish-a-plugin/"><img src="https://www.google.com/s2/favicons?domain=framer.com&sz=64" width="16" height="16" alt=""></a> **[Framer Marketplace Plugins](https://www.framer.com/help/articles/how-to-publish-a-plugin/)** `DR 91` `495K visits/mo` `Free` `Nofollow`<br>
+  Framer Marketplace Plugins distributes Framer plugins through public listings that users can discover and install.
+- <a href="https://plugins.jetbrains.com/docs/marketplace/uploading-a-new-plugin.html"><img src="https://www.google.com/s2/favicons?domain=plugins.jetbrains.com&sz=64" width="16" height="16" alt=""></a> **[JetBrains Marketplace](https://plugins.jetbrains.com/docs/marketplace/uploading-a-new-plugin.html)** `DR 91` `19K visits/mo` `Free` `Dofollow`<br>
+  JetBrains Marketplace distributes JetBrains IDE plugins through public listings that users can discover and install.
 - <a href="https://developer.zapier.com/"><img src="https://www.google.com/s2/favicons?domain=zapier.com&sz=64" width="16" height="16" alt=""></a> **[Zapier App Directory](https://developer.zapier.com/)** `DR 91` `3.6M visits/mo` `Free` `Nofollow`<br>
   Zapier is a no-code automation platform whose App Directory lists apps that users can connect in workflows.
 - <a href="https://signup.angi.com/pro"><img src="https://www.google.com/s2/favicons?domain=angi.com&sz=64" width="16" height="16" alt=""></a> **[Angi](https://signup.angi.com/pro)** `DR 90` `1M visits/mo` `Free` `Nofollow`<br>
   Angi is a home-services marketplace where service professionals can create profiles, receive reviews, and generate leads.
 - <a href="https://www.make.com/en/technology-partners"><img src="https://www.google.com/s2/favicons?domain=make.com&sz=64" width="16" height="16" alt=""></a> **[Make App Directory](https://www.make.com/en/technology-partners)** `DR 90` `300K visits/mo` `Free` `Dofollow`<br>
   Make is an automation platform with an app directory and partner programs for integration builders and certified automation experts.
+- <a href="https://developers.miro.com/docs/miro-marketplace"><img src="https://www.google.com/s2/favicons?domain=miro.com&sz=64" width="16" height="16" alt=""></a> **[Miro Marketplace](https://developers.miro.com/docs/miro-marketplace)** `DR 90` `2.4M visits/mo` `Dofollow`<br>
+  Miro Marketplace distributes Miro apps and integrations through public listings that users can discover and install.
 - <a href="https://docs.n8n.io/integrations/creating-nodes/deploy/submit-community-nodes/"><img src="https://www.google.com/s2/favicons?domain=n8n.io&sz=64" width="16" height="16" alt=""></a> **[n8n Integrations](https://docs.n8n.io/integrations/creating-nodes/deploy/submit-community-nodes/)** `DR 90` `2M visits/mo` `Free` `Dofollow`<br>
   n8n is an automation platform whose integrations library includes verified community nodes and workflow templates.
+- <a href="https://extensions.blender.org/submit/"><img src="https://www.google.com/s2/favicons?domain=extensions.blender.org&sz=64" width="16" height="16" alt=""></a> **[Blender Extensions](https://extensions.blender.org/submit/)** `DR 89` `10K visits/mo` `Free` `Nofollow`<br>
+  Blender Extensions is the public platform for free and open-source Blender add-ons and themes, also discoverable inside Blender.
 - <a href="https://app.notion.com/profile/connections"><img src="https://www.google.com/s2/favicons?domain=notion.so&sz=64" width="16" height="16" alt=""></a> **[Notion Marketplace](https://app.notion.com/profile/connections)** `DR 89` `5.2M visits/mo` `Free` `Nofollow`<br>
   Notion is a collaborative workspace for notes, documents, databases, wikis, and project management that operates marketplaces for integrations and templates.
 - <a href="https://wellfound.com/recruit/all-features/post-a-job"><img src="https://www.google.com/s2/favicons?domain=wellfound.com&sz=64" width="16" height="16" alt=""></a> **[Wellfound](https://wellfound.com/recruit/all-features/post-a-job)** `DR 87` `236K visits/mo` `Free` `Dofollow`<br>
   Wellfound is a startup talent marketplace where companies create profiles and post jobs to reach candidates.
+- <a href="https://bubble.io/home/plugins"><img src="https://www.google.com/s2/favicons?domain=bubble.io&sz=64" width="16" height="16" alt=""></a> **[Bubble Plugin Marketplace](https://bubble.io/home/plugins)** `DR 86` `143K visits/mo` `Free`<br>
+  Bubble Plugin Marketplace distributes Bubble plugins through public listings that users can discover and install.
+- <a href="https://community.obsidian.md"><img src="https://www.google.com/s2/favicons?domain=community.obsidian.md&sz=64" width="16" height="16" alt=""></a> **[Obsidian Community Plugins](https://community.obsidian.md)** `DR 86` `459K visits/mo` `Free`<br>
+  Obsidian's Community directory lists plugins users can discover and install within Obsidian.
+- <a href="https://developer.sketch.com/plugins/publish-a-plugin"><img src="https://www.google.com/s2/favicons?domain=sketch.com&sz=64" width="16" height="16" alt=""></a> **[Sketch Plugin Directory](https://developer.sketch.com/plugins/publish-a-plugin)** `DR 85` `233K visits/mo` `Free` `Dofollow`<br>
+  Sketch's public plugin directory lists plugins and integrations that extend design workflows in Sketch.
 - <a href="https://partners.appsumo.com/self-submission"><img src="https://appsumo.com/favicon.ico" width="16" height="16" alt=""></a> **[AppSumo](https://partners.appsumo.com/self-submission)** `DR 83` `96K visits/mo` `Free` `Nofollow`<br>
   Curated marketplace where established software companies launch deals to an entrepreneur audience.
+- <a href="https://docs.godotengine.org/en/stable/community/asset_library/submitting_to_assetlib.html"><img src="https://www.google.com/s2/favicons?domain=godotengine.org&sz=64" width="16" height="16" alt=""></a> **[Godot Asset Library](https://docs.godotengine.org/en/stable/community/asset_library/submitting_to_assetlib.html)** `DR 83` `167K visits/mo` `Free` `Dofollow`<br>
+  Godot Asset Library lists downloadable add-ons, scripts, tools, templates, and demos for Godot developers.
+- <a href="https://maker.elgato.com"><img src="https://www.google.com/s2/favicons?domain=marketplace.elgato.com&sz=64" width="16" height="16" alt=""></a> **[Elgato Stream Deck Marketplace](https://maker.elgato.com)** `DR 81` `18K visits/mo` `Dofollow`<br>
+  Elgato Marketplace distributes Stream Deck plugins through public listings for hardware controls and software workflows.
+- <a href="https://developers.raycast.com/basics/publish-an-extension"><img src="https://www.google.com/s2/favicons?domain=raycast.com&sz=64" width="16" height="16" alt=""></a> **[Raycast Store](https://developers.raycast.com/basics/publish-an-extension)** `DR 81` `88K visits/mo` `Free` `Dofollow`<br>
+  Raycast Store lists installable extensions that add commands, integrations, and workflows to Raycast.
 - <a href="https://weworkremotely.com/employers"><img src="https://www.google.com/s2/favicons?domain=weworkremotely.com&sz=64" width="16" height="16" alt=""></a> **[We Work Remotely](https://weworkremotely.com/employers)** `DR 79` `223K visits/mo` `Paid` `Dofollow`<br>
   We Work Remotely is a remote-job board where companies post openings for a global audience of remote workers.
 - <a href="https://www.elocal.com/signup/step1/"><img src="https://www.google.com/s2/favicons?domain=elocal.com&sz=64" width="16" height="16" alt=""></a> **[eLocal](https://www.elocal.com/signup/step1/)** `DR 74` `9.3K visits/mo` `Paid`<br>
   Pay-per-call marketplace connecting consumers with local professionals across home services, legal, insurance, medical, and other service categories.
+- <a href="https://github.com/laurent22/joplin/blob/dev/packages/generator-joplin/generators/app/templates/GENERATOR_DOC.md"><img src="https://www.google.com/s2/favicons?domain=joplinapp.org&sz=64" width="16" height="16" alt=""></a> **[Joplin Plugins](https://github.com/laurent22/joplin/blob/dev/packages/generator-joplin/generators/app/templates/GENERATOR_DOC.md)** `DR 74` `20K visits/mo` `Free` `Dofollow`<br>
+  Joplin's public plugin catalog distributes extensions for note editing, organization, integrations, and productivity.
 - <a href="https://acquire.com/sellers"><img src="https://www.google.com/s2/favicons?domain=acquire.com&sz=64" width="16" height="16" alt=""></a> **[Acquire.com](https://acquire.com/sellers)** `DR 73` `35K visits/mo` `Paid` `Nofollow`<br>
   Acquire.com is an online marketplace for buying and selling startups and online businesses, with tools for listings, buyer matching, and deal support.
+- <a href="https://www.hacs.xyz/docs/publish/include/"><img src="https://www.google.com/s2/favicons?domain=hacs.xyz&sz=64" width="16" height="16" alt=""></a> **[HACS](https://www.hacs.xyz/docs/publish/include/)** `DR 71` `10K visits/mo` `Free`<br>
+  HACS is the Home Assistant Community Store for discovering custom integrations, dashboard cards, themes, and other community extensions.
 - <a href="https://www.sideprojectors.com/submit/type"><img src="https://www.google.com/s2/favicons?domain=sideprojectors.com&sz=64" width="16" height="16" alt=""></a> **[SideProjectors](https://www.sideprojectors.com/submit/type)** `DR 70` `5.2K visits/mo` `Free` `Nofollow`<br>
   Marketplace for buying, selling, promoting, and showcasing digital products and side projects.
 - <a href="https://www.spotsaas.com/get-listed"><img src="https://www.google.com/s2/favicons?domain=spotsaas.com&sz=64" width="16" height="16" alt=""></a> **[Spot SaaS](https://www.spotsaas.com/get-listed)** `DR 67` `25K visits/mo` `Free` `Dofollow`<br>
   Spot SaaS is a curated B2B software marketplace and comparison site where buyers research, compare, and shortlist business software products.
 - <a href="https://www.b2bstack.com.br/produto/novo-item"><img src="https://www.google.com/s2/favicons?domain=b2bstack.com.br&sz=64" width="16" height="16" alt=""></a> **[B2B Stack](https://www.b2bstack.com.br/produto/novo-item)** `DR 59` `21K visits/mo` `Free` `Nofollow`<br>
   B2B Stack is a Brazilian B2B software search and review marketplace for product discovery and vendor presence.
-- <a href="https://dealify.com/pages/run-a-deal"><img src="https://dealify.com/cdn/shop/files/favicon_96x96.png" width="16" height="16" alt=""></a> **[Dealify](https://dealify.com/pages/run-a-deal)** `DR 58` `2.9K visits/mo` `Paid`<br>
+- <a href="https://dealify.com/pages/run-a-deal"><img src="https://dealify.com/cdn/shop/files/favicon_96x96.png" width="16" height="16" alt=""></a> **[Dealify](https://dealify.com/pages/run-a-deal)** `DR 58` `2.9K visits/mo` `Paid` `Dofollow`<br>
   Curated software-deal marketplace promoting lifetime, annual, credit-based, and free promotional offers to marketers, growth teams, founders, and software buyers.
 - <a href="https://betatesting.com/"><img src="https://www.google.com/s2/favicons?domain=betatesting.com&sz=64" width="16" height="16" alt=""></a> **[BetaTesting](https://betatesting.com/)** `DR 55` `6.2K visits/mo` `Paid` `Nofollow`<br>
   BetaTesting connects companies with a panel of beta testers for real-world product testing, feedback, and research.
@@ -887,4 +927,4 @@ Do not send pull requests that edit `README.md` directly. It is generated, and t
 
 [CC0 1.0](LICENSE). The list is public domain. Domain Rating figures are provided by Ahrefs under their [Domain Rating license](http://ahrefs.com/legal/domain-rating-license).
 
-<p align="center"><sub>Maintained by <a href="https://github.com/alvinunreal">Alvin</a> · Built from <a href="https://submitlist.io/catalog">submitlist.io/catalog</a> · Last synced 2026-10-12</sub></p>
+<p align="center"><sub>Maintained by <a href="https://github.com/alvinunreal">Alvin</a> · Built from <a href="https://submitlist.io/catalog">submitlist.io/catalog</a> · Last synced 2026-10-19</sub></p>
