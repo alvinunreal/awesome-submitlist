@@ -1,7 +1,7 @@
 {
   "source": "https://api.submitlist.io/catalog/destinations",
-  "synced_on": "2026-11-02",
-  "count": 3478,
+  "synced_on": "2026-11-09",
+  "count": 3477,
   "destinations": [
     {
       "slug": "1001albumsgenerator",
@@ -21682,6 +21682,25 @@
       ]
     },
     {
+      "slug": "github-1288052398",
+      "name": "cloudfloo/awesome-digital-nomads",
+      "type": "github",
+      "website_url": "https://github.com/cloudfloo/awesome-digital-nomads",
+      "submission_url": "https://github.com/cloudfloo/awesome-digital-nomads/blob/ea355f11f3865aa7bc05f76f4a42ec5749b301f9/contributing.md",
+      "logo_url": null,
+      "description": "Curated, actively maintained list of tools and resources for digital nomads — finance & FIRE, visas, insurance, eSIMs, communities. Weekly link checks, PRs actually get merged.",
+      "audience": null,
+      "eligibility": null,
+      "pricing": "unknown",
+      "pricing_note": null,
+      "link_type": "unknown",
+      "domain_rating": null,
+      "monthly_traffic": null,
+      "categories": [
+        "software"
+      ]
+    },
+    {
       "slug": "github-1288169275",
       "name": "alexbevi/awesome-agent-frameworks",
       "type": "github",
@@ -33312,6 +33331,25 @@
       ]
     },
     {
+      "slug": "github-40586505",
+      "name": "uhub/awesome-c",
+      "type": "github",
+      "website_url": "https://github.com/uhub/awesome-c",
+      "submission_url": null,
+      "logo_url": null,
+      "description": "A curated list of awesome C frameworks, libraries and software.",
+      "audience": null,
+      "eligibility": null,
+      "pricing": "unknown",
+      "pricing_note": null,
+      "link_type": "unknown",
+      "domain_rating": null,
+      "monthly_traffic": null,
+      "categories": [
+        "software"
+      ]
+    },
+    {
       "slug": "github-40586793",
       "name": "uhub/awesome-cpp",
       "type": "github",
@@ -35967,25 +36005,6 @@
       "monthly_traffic": null,
       "categories": [
         "design",
-        "developer-tools"
-      ]
-    },
-    {
-      "slug": "github-47915986",
-      "name": "gobuild/awesome-go-tools",
-      "type": "github",
-      "website_url": "https://github.com/gobuild/awesome-go-tools",
-      "submission_url": null,
-      "logo_url": null,
-      "description": "A list of awesome Go tools. Not like awesome-go here only maintains golang awesome tools.",
-      "audience": "Software creators whose projects match the scope of gobuild/awesome-go-tools.",
-      "eligibility": null,
-      "pricing": "unknown",
-      "pricing_note": null,
-      "link_type": "unknown",
-      "domain_rating": null,
-      "monthly_traffic": null,
-      "categories": [
         "developer-tools"
       ]
     },
@@ -39308,26 +39327,6 @@
       ]
     },
     {
-      "slug": "github-621968507",
-      "name": "recallnet/awesome-decentralized-database",
-      "type": "github",
-      "website_url": "https://github.com/recallnet/awesome-decentralized-database",
-      "submission_url": null,
-      "logo_url": null,
-      "description": "A curated list of awesome decentralized databases and related resources.",
-      "audience": "Software creators whose projects match the scope of recallnet/awesome-decentralized-database.",
-      "eligibility": null,
-      "pricing": "unknown",
-      "pricing_note": null,
-      "link_type": "unknown",
-      "domain_rating": null,
-      "monthly_traffic": null,
-      "categories": [
-        "analytics",
-        "developer-tools"
-      ]
-    },
-    {
       "slug": "github-622125112",
       "name": "KennethanCeyer/awesome-llmops",
       "type": "github",
@@ -41223,7 +41222,7 @@
       "slug": "github-699255058",
       "name": "fdciabdul/awesome-made-by-indonesian",
       "type": "github",
-      "website_url": "https://github.com/fdciabdul/awesome-made-by-indonesian",
+      "website_url": "https://github.com/taqiin/awesome-made-by-indonesian",
       "submission_url": null,
       "logo_url": null,
       "description": "A list of project that is made by Indonesian",
@@ -41364,25 +41363,6 @@
       "logo_url": null,
       "description": "Awesome Object Capabilities and Capability Security",
       "audience": "Software creators whose projects match the scope of dckc/awesome-ocap.",
-      "eligibility": null,
-      "pricing": "unknown",
-      "pricing_note": null,
-      "link_type": "unknown",
-      "domain_rating": null,
-      "monthly_traffic": null,
-      "categories": [
-        "developer-tools"
-      ]
-    },
-    {
-      "slug": "github-71149253",
-      "name": "meSingh/awesome-vuejs",
-      "type": "github",
-      "website_url": "https://github.com/meSingh/awesome-vuejs",
-      "submission_url": null,
-      "logo_url": null,
-      "description": ":sunglasses: :package: :page_facing_up: A curated list of awesome packages, tutorials and other cool resources for Vue.js",
-      "audience": "Software creators whose projects match the scope of meSingh/awesome-vuejs.",
       "eligibility": null,
       "pricing": "unknown",
       "pricing_note": null,
@@ -43636,7 +43616,7 @@
       "slug": "github-843560793",
       "name": "LizardByte/awesome-sunshine",
       "type": "github",
-      "website_url": "https://github.com/LizardByte/awesome-sunshine",
+      "website_url": "https://github.com/SunshineStream/awesome-sunshine",
       "submission_url": null,
       "logo_url": null,
       "description": "A collection of awesome Sunshine scripts, tools, guides and companion software.",
@@ -45482,7 +45462,7 @@
       "slug": "github-93959870",
       "name": "linsa-io/command-line-tools",
       "type": "github",
-      "website_url": "https://github.com/linsa-io/command-line-tools",
+      "website_url": "https://github.com/gendotnew/command-line-tools",
       "submission_url": null,
       "logo_url": null,
       "description": "Awesome Command Line Utilities",

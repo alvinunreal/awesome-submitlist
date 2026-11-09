@@ -4,12 +4,12 @@
 
 <h1 align="center">awesome-submitlist</h1>
 
-<p align="center"><b>3478 places to submit your startup.</b><br>Directories, launch sites, newsletters, communities, subreddits, marketplaces, and the press pages that mention products. With the numbers attached.</p>
+<p align="center"><b>3477 places to submit your startup.</b><br>Directories, launch sites, newsletters, communities, subreddits, marketplaces, and the press pages that mention products. With the numbers attached.</p>
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <a href="https://submitlist.io/catalog"><img src="https://img.shields.io/badge/destinations-3478-6864e5?style=flat-square" alt="3478 destinations"></a>
-  <a href="#how-this-list-is-built"><img src="https://img.shields.io/badge/synced-2026--11--02-6864e5?style=flat-square" alt="synced 2026-11-02"></a>
+  <a href="https://submitlist.io/catalog"><img src="https://img.shields.io/badge/destinations-3477-6864e5?style=flat-square" alt="3477 destinations"></a>
+  <a href="#how-this-list-is-built"><img src="https://img.shields.io/badge/synced-2026--11--09-6864e5?style=flat-square" alt="synced 2026-11-09"></a>
   <a href="#contributing"><img src="https://img.shields.io/badge/PRs-welcome-1f8a4c?style=flat-square" alt="PRs welcome"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC0%201.0-8b8b8b?style=flat-square" alt="CC0 1.0 license"></a>
 </p>
@@ -20,7 +20,7 @@
 
 You built the thing. Now where do you post it? Every list that answers this question is either five years stale, padded with dead domains, or a lead magnet for an agency. This one is none of those. It is generated from the live [Submitlist catalog](https://submitlist.io/catalog), where each site was opened by a person, checked for whether it still takes submissions, and tagged with the four numbers that decide if it is worth your afternoon: Ahrefs Domain Rating, monthly organic traffic, what it costs, and whether the backlink is dofollow.
 
-Dead sites get archived and vanish from here on the next weekly sync. Right now 123 of the 3478 destinations have a Domain Rating of 80 or higher, 220 are free, and 184 give you a dofollow link. The pigeon keeps count.
+Dead sites get archived and vanish from here on the next weekly sync. Right now 123 of the 3477 destinations have a Domain Rating of 80 or higher, 220 are free, and 184 give you a dofollow link. The pigeon keeps count.
 
 ## Contents
 
@@ -4049,4 +4049,4 @@ Do not send pull requests that edit `README.md` directly. It is generated, and t
 
 [CC0 1.0](LICENSE). The list is public domain. Domain Rating figures are provided by Ahrefs under their [Domain Rating license](http://ahrefs.com/legal/domain-rating-license).
 
-<p align="center"><sub>Maintained by <a href="https://github.com/alvinunreal">Alvin</a> · Built from <a href="https://submitlist.io/catalog">submitlist.io/catalog</a> · Last synced 2026-11-02</sub></p>
+<p align="center"><sub>Maintained by <a href="https://github.com/alvinunreal">Alvin</a> · Built from <a href="https://submitlist.io/catalog">submitlist.io/catalog</a> · Last synced 2026-11-09</sub></p>
