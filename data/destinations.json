@@ -1,8 +1,27 @@
 {
   "source": "https://api.submitlist.io/catalog/destinations",
-  "synced_on": "2026-11-09",
-  "count": 3477,
+  "synced_on": "2026-11-16",
+  "count": 3508,
   "destinations": [
+    {
+      "slug": "10015-product-finder",
+      "name": "10015 Product Finder",
+      "type": "directory",
+      "website_url": "https://10015.io/",
+      "submission_url": "https://10015.io/product-finder/submit",
+      "logo_url": "https://www.google.com/s2/favicons?domain=10015.io&sz=64",
+      "description": "A product-discovery directory within 10015's collection of online tools.",
+      "audience": "Products, SaaS, web utilities, mobile and desktop apps, extensions and add-ons with a live website.",
+      "eligibility": "Products, SaaS, web utilities, mobile and desktop apps, extensions and add-ons with a live website.",
+      "pricing": "free",
+      "pricing_note": "Free review is available without a guaranteed date. Optional priority review costs $9.99 and advertises publication within 24 hours; priority plus a backlink is a separate option.",
+      "link_type": "unknown",
+      "domain_rating": 53,
+      "monthly_traffic": 50000,
+      "categories": [
+        "software"
+      ]
+    },
     {
       "slug": "1001albumsgenerator",
       "name": "r/1001AlbumsGenerator",
@@ -738,6 +757,25 @@
         "promotion_mode": "restricted",
         "rules_url": "https://www.reddit.com/r/admob/about/rules"
       }
+    },
+    {
+      "slug": "adobe-exchange",
+      "name": "Adobe Exchange",
+      "type": "marketplace",
+      "website_url": "https://exchange.adobe.com/",
+      "submission_url": "https://developer.adobe.com/developer-distribution/creative-cloud/docs/guides/submission/overview",
+      "logo_url": "https://exchange.adobe.com/ac0d0a9/logo.e64b7507.png",
+      "description": "Adobe's marketplace and developer distribution channel for compatible Creative Cloud plugins and integrations.",
+      "audience": "Developers of working plugins or integrations for supported Adobe products, with an approved publisher profile and applicable trader details.",
+      "eligibility": "Developers of working plugins or integrations for supported Adobe products, with an approved publisher profile and applicable trader details.",
+      "pricing": "unknown",
+      "pricing_note": "Submission, paid distribution and applicable commercial terms depend on the plugin and marketplace; no universal listing price was established.",
+      "link_type": "unknown",
+      "domain_rating": 95,
+      "monthly_traffic": 35000,
+      "categories": [
+        "design"
+      ]
     },
     {
       "slug": "ads",
@@ -2509,6 +2547,25 @@
       }
     },
     {
+      "slug": "airtable-extensions",
+      "name": "Airtable Extensions",
+      "type": "marketplace",
+      "website_url": "https://airtable.com/marketplace",
+      "submission_url": "https://airtable.com/developers/extensions/guides/submit-to-marketplace",
+      "logo_url": "https://www.google.com/s2/favicons?domain=airtable.com&sz=64",
+      "description": "Airtable's marketplace for reviewed custom extensions that users can install in their bases.",
+      "audience": "Developers of working Airtable extensions that comply with developer policies and can be demonstrated in an example base.",
+      "eligibility": "Developers of working Airtable extensions that comply with developer policies and can be demonstrated in an example base.",
+      "pricing": "unknown",
+      "pricing_note": "The current developer guide establishes the submission and review process but does not state a universal listing price.",
+      "link_type": "dofollow",
+      "domain_rating": 91,
+      "monthly_traffic": 604900,
+      "categories": [
+        "developer-tools"
+      ]
+    },
+    {
       "slug": "airtel",
       "name": "r/Airtel",
       "type": "subreddit",
@@ -3295,6 +3352,25 @@
         "promotion_mode": "restricted",
         "rules_url": "https://www.reddit.com/r/amazfit/about/rules"
       }
+    },
+    {
+      "slug": "amazon-kdp",
+      "name": "Amazon KDP",
+      "type": "marketplace",
+      "website_url": "https://kdp.amazon.com/",
+      "submission_url": "https://kdp.amazon.com/",
+      "logo_url": "https://www.google.com/s2/favicons?domain=kdp.amazon.com&sz=64",
+      "description": "Amazon's Kindle Direct Publishing platform for self-published digital and print books.",
+      "audience": "Authors and publishers with distribution rights and a complete book that meets KDP's content and metadata policies; not a software-directory route.",
+      "eligibility": "Authors and publishers with distribution rights and a complete book that meets KDP's content and metadata policies; not a software-directory route.",
+      "pricing": "free",
+      "pricing_note": "KDP advertises free self-publishing tools. Print costs, royalties and optional services affect earnings; free publishing does not mean free printing.",
+      "link_type": "unknown",
+      "domain_rating": 96,
+      "monthly_traffic": 1100000,
+      "categories": [
+        "ecommerce"
+      ]
     },
     {
       "slug": "amazonecho",
@@ -7887,6 +7963,47 @@
       }
     },
     {
+      "slug": "cb-insights-company-profiles",
+      "name": "CB Insights Company Profiles",
+      "type": "citation",
+      "website_url": "https://www.cbinsights.com/company/",
+      "submission_url": "https://www.cbinsights.com/what-we-offer/technology-vendors/tech-vendor-faqs/",
+      "logo_url": "https://www.google.com/s2/favicons?domain=cbinsights.com&sz=64",
+      "description": "Technology company profiles on CB Insights.",
+      "audience": null,
+      "eligibility": "Company profile updates and analyst briefing requests are reviewed by CB Insights; publication is not guaranteed.",
+      "pricing": "unknown",
+      "pricing_note": null,
+      "link_type": "unknown",
+      "domain_rating": 87,
+      "monthly_traffic": 132700,
+      "categories": []
+    },
+    {
+      "slug": "cb-insights-newsletter",
+      "name": "CB Insights Newsletter",
+      "type": "newsletter",
+      "website_url": "https://cbinsights.com",
+      "submission_url": null,
+      "logo_url": "https://www.google.com/s2/favicons?domain=cbinsights.com&sz=64",
+      "description": "The CB Insights Newsletter provides data-driven rundowns on emerging tech trends, venture capital funding, and private company markets.",
+      "audience": "It targets business leaders, corporate strategists, investors, and tech professionals looking to stay ahead of market movements.",
+      "eligibility": null,
+      "pricing": "unknown",
+      "pricing_note": null,
+      "link_type": "dofollow",
+      "domain_rating": null,
+      "monthly_traffic": null,
+      "categories": [],
+      "newsletter": {
+        "category": "business",
+        "topic": "startups",
+        "platform": "other",
+        "subscribers": 800000,
+        "open_rate": 35
+      }
+    },
+    {
       "slug": "cdl",
       "name": "r/CDL",
       "type": "subreddit",
@@ -8227,6 +8344,25 @@
         "promotion_mode": "mod_approval",
         "rules_url": "https://www.reddit.com/r/chemistry/about/rules"
       }
+    },
+    {
+      "slug": "chocolatey",
+      "name": "Chocolatey",
+      "type": "marketplace",
+      "website_url": "https://community.chocolatey.org/",
+      "submission_url": "https://community.chocolatey.org/packages/upload",
+      "logo_url": "https://www.google.com/s2/favicons?domain=community.chocolatey.org&sz=64",
+      "description": "The Chocolatey Community Repository for moderated Windows software packages.",
+      "audience": "Maintainers able to package and test Windows software with accurate licensing and supported installer automation.",
+      "eligibility": "Maintainers able to package and test Windows software with accurate licensing and supported installer automation.",
+      "pricing": "free",
+      "pricing_note": "The community package-submission route is free; commercial Chocolatey products are separate.",
+      "link_type": "unknown",
+      "domain_rating": 84,
+      "monthly_traffic": 29200,
+      "categories": [
+        "software"
+      ]
     },
     {
       "slug": "chrome",
@@ -9025,6 +9161,25 @@
       }
     },
     {
+      "slug": "coda-packs-gallery",
+      "name": "Superhuman Docs Packs (Coda)",
+      "type": "marketplace",
+      "website_url": "https://coda.io/product/packs",
+      "submission_url": "https://help.superhuman.com/hc/en-us/articles/46210111941389-Share-or-publish-a-Pack",
+      "logo_url": "https://www.google.com/s2/favicons?domain=coda.io&sz=64",
+      "description": "The Pack gallery for Superhuman Docs, formerly Coda, extending documents with actions, formulas and integrations.",
+      "audience": "Developers with a working Coda Pack, a completed listing and at least one released version.",
+      "eligibility": "Developers with a working Coda Pack, a completed listing and at least one released version.",
+      "pricing": "unknown",
+      "pricing_note": "The public publishing guide does not establish a universal listing price; commercial Pack pricing and publisher conditions require separate review.",
+      "link_type": "unknown",
+      "domain_rating": 82,
+      "monthly_traffic": 70400,
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
       "slug": "codes",
       "name": "r/codes",
       "type": "subreddit",
@@ -9596,6 +9751,25 @@
       }
     },
     {
+      "slug": "contentstack-marketplace",
+      "name": "Contentstack Marketplace",
+      "type": "marketplace",
+      "website_url": "https://www.contentstack.com/",
+      "submission_url": "https://www.contentstack.com/docs/marketplace/app-submission-and-approval-guide",
+      "logo_url": "https://www.google.com/s2/favicons?domain=contentstack.com&sz=64",
+      "description": "Contentstack's reviewed marketplace for CMS apps and integrations.",
+      "audience": "Approved Marketplace developers or partners with a tested Contentstack app. Independent non-partner admission must be confirmed before committing implementation work.",
+      "eligibility": "Approved Marketplace developers or partners with a tested Contentstack app. Independent non-partner admission must be confirmed before committing implementation work.",
+      "pricing": "unknown",
+      "pricing_note": "The publishing guide does not establish a general public listing fee; developer admission and any commercial terms require confirmation.",
+      "link_type": "unknown",
+      "domain_rating": 81,
+      "monthly_traffic": 138700,
+      "categories": [
+        "developer-tools"
+      ]
+    },
+    {
       "slug": "controlproblem",
       "name": "r/ControlProblem",
       "type": "subreddit",
@@ -9755,6 +9929,25 @@
         "promotion_mode": "restricted",
         "rules_url": "https://www.reddit.com/r/cpp_questions/about/rules"
       }
+    },
+    {
+      "slug": "craftercms-marketplace",
+      "name": "CrafterCMS Marketplace",
+      "type": "marketplace",
+      "website_url": "https://craftercms.com/marketplace",
+      "submission_url": "https://craftercms.com/docs/current/by-role/developer/composable/extensions/craftercms-marketplace.html",
+      "logo_url": "https://craftercms.com/static-assets/CrafterSquare.svg",
+      "description": "A community marketplace for CrafterCMS plugins and project blueprints.",
+      "audience": "Developers publishing extensions for CrafterCMS.",
+      "eligibility": "A working CrafterCMS plugin or blueprint in a public GitHub repository. A generic product listing without a compatible extension is not eligible.",
+      "pricing": "free",
+      "pricing_note": "The official guide provides a free GitHub App submission route for public extensions. Private extensions or a private marketplace require CrafterCMS Enterprise Edition.",
+      "link_type": "unknown",
+      "domain_rating": 53,
+      "monthly_traffic": 961,
+      "categories": [
+        "developer-tools"
+      ]
     },
     {
       "slug": "creality",
@@ -11102,6 +11295,25 @@
       }
     },
     {
+      "slug": "datocms-marketplace",
+      "name": "DatoCMS Marketplace",
+      "type": "marketplace",
+      "website_url": "https://www.datocms.com/",
+      "submission_url": "https://www.datocms.com/docs/plugin-sdk/publishing-to-marketplace",
+      "logo_url": "https://www.google.com/s2/favicons?domain=datocms.com&sz=64",
+      "description": "DatoCMS's marketplace for installable CMS plugins published as npm packages.",
+      "audience": "Developers shipping a real DatoCMS plugin, not a standalone website listing.",
+      "eligibility": "Developers shipping a real DatoCMS plugin, not a standalone website listing.",
+      "pricing": "free",
+      "pricing_note": "The documented publishing route is an npm package release; no listing fee is specified.",
+      "link_type": "dofollow",
+      "domain_rating": 74,
+      "monthly_traffic": 4700,
+      "categories": [
+        "developer-tools"
+      ]
+    },
+    {
       "slug": "dcts",
       "name": "r/dcts",
       "type": "subreddit",
@@ -11659,7 +11871,7 @@
       "pricing_note": "Basic launches are free with limited weekly slots; paid or sponsor options are also available, with direct contact required for current details.",
       "link_type": "dofollow",
       "domain_rating": 63,
-      "monthly_traffic": 14100,
+      "monthly_traffic": 108441,
       "categories": [
         "developer-tools",
         "startup"
@@ -12642,6 +12854,25 @@
         "promotion_mode": "unknown",
         "rules_url": "https://www.reddit.com/r/dronewatchlive/about/rules"
       }
+    },
+    {
+      "slug": "drupal-modules",
+      "name": "Drupal modules",
+      "type": "marketplace",
+      "website_url": "https://new.drupal.org/",
+      "submission_url": "https://www.drupal.org/project/add",
+      "logo_url": "https://new.drupal.org/core/misc/favicon.ico",
+      "description": "Drupal.org's contributed-module project directory and release channel.",
+      "audience": "Developers of working Drupal modules that meet Drupal.org licensing and contribution rules.",
+      "eligibility": "Developers of working Drupal modules that meet Drupal.org licensing and contribution rules.",
+      "pricing": "free",
+      "pricing_note": "The contributed-project route is free; a listing is not a paid promotion or security endorsement.",
+      "link_type": "nofollow",
+      "domain_rating": 91,
+      "monthly_traffic": 39900,
+      "categories": [
+        "developer-tools"
+      ]
     },
     {
       "slug": "ds4windows",
@@ -13793,6 +14024,25 @@
         "promotion_mode": "direct_post",
         "rules_url": "https://www.reddit.com/r/espresso/about/rules"
       }
+    },
+    {
+      "slug": "etsy",
+      "name": "Etsy",
+      "type": "marketplace",
+      "website_url": "https://www.etsy.com/",
+      "submission_url": "https://www.etsy.com/sell",
+      "logo_url": "https://www.google.com/s2/favicons?domain=etsy.com&sz=64",
+      "description": "A marketplace for eligible physical and digital products sold by independent shops.",
+      "audience": "Sellers with products that meet Etsy's creativity and seller policies, such as qualifying original journals or digital downloads; generic SaaS website listings are not eligible.",
+      "eligibility": "Sellers with products that meet Etsy's creativity and seller policies, such as qualifying original journals or digital downloads; generic SaaS website listings are not eligible.",
+      "pricing": "paid",
+      "pricing_note": "Etsy charges seller fees; applicable setup and payment fees vary. Verify current fees for the shop before committing payment.",
+      "link_type": "unknown",
+      "domain_rating": 94,
+      "monthly_traffic": 36100000,
+      "categories": [
+        "ecommerce"
+      ]
     },
     {
       "slug": "etsysellers",
@@ -14997,6 +15247,25 @@
         "promotion_mode": "restricted",
         "rules_url": "https://www.reddit.com/r/foss/about/rules"
       }
+    },
+    {
+      "slug": "fosshub",
+      "name": "FossHub",
+      "type": "directory",
+      "website_url": "https://www.fosshub.com/",
+      "submission_url": "https://www.fosshub.com/contact.html",
+      "logo_url": "https://www.fosshub.com/media/favicon/favicon-32x32.png",
+      "description": "A software directory accepting listing suggestions through its contact form.",
+      "audience": "Software projects with an official website, clear licensing and legitimate release downloads.",
+      "eligibility": "Software projects with an official website, clear licensing and legitimate release downloads.",
+      "pricing": "free",
+      "pricing_note": "The documented listing-suggestion route does not require payment; no file-hosting account is created.",
+      "link_type": "unknown",
+      "domain_rating": 74,
+      "monthly_traffic": 46200,
+      "categories": [
+        "software"
+      ]
     },
     {
       "slug": "founder",
@@ -17175,6 +17444,25 @@
       "monthly_traffic": null,
       "categories": [
         "ai"
+      ]
+    },
+    {
+      "slug": "github-1035920764",
+      "name": "FullThrottle83/awesome-free-ai",
+      "type": "github",
+      "website_url": "https://github.com/FullThrottle83/awesome-free-ai",
+      "submission_url": "https://github.com/FullThrottle83/awesome-free-ai/blob/1bb016a93b4684a8e28f08e324781e5ea52d17f0/CONTRIBUTING.md",
+      "logo_url": null,
+      "description": "A curated list of awesome free-to-use AI tools and services for developers, creators, and professionals.",
+      "audience": null,
+      "eligibility": null,
+      "pricing": "unknown",
+      "pricing_note": null,
+      "link_type": "unknown",
+      "domain_rating": null,
+      "monthly_traffic": null,
+      "categories": [
+        "software"
       ]
     },
     {
@@ -19431,6 +19719,25 @@
       "monthly_traffic": null,
       "categories": [
         "developer-tools"
+      ]
+    },
+    {
+      "slug": "github-1163076243",
+      "name": "Scottcjn/awesome-agents",
+      "type": "github",
+      "website_url": "https://github.com/Scottcjn/awesome-agents",
+      "submission_url": "https://github.com/Scottcjn/awesome-agents/blob/1b4da7a6abd1203660705d1011177f685ae12ec5/CONTRIBUTING.md",
+      "logo_url": null,
+      "description": "A curated list of AI agent platforms, frameworks, protocols, tools, and resources",
+      "audience": null,
+      "eligibility": null,
+      "pricing": "unknown",
+      "pricing_note": null,
+      "link_type": "unknown",
+      "domain_rating": null,
+      "monthly_traffic": null,
+      "categories": [
+        "software"
       ]
     },
     {
@@ -23652,6 +23959,25 @@
       ]
     },
     {
+      "slug": "github-154991835",
+      "name": "siddhantgoel/awesome-beancount",
+      "type": "github",
+      "website_url": "https://github.com/siddhantgoel/awesome-beancount",
+      "submission_url": null,
+      "logo_url": null,
+      "description": "Awesome Beancount Resources",
+      "audience": null,
+      "eligibility": null,
+      "pricing": "unknown",
+      "pricing_note": null,
+      "link_type": "unknown",
+      "domain_rating": null,
+      "monthly_traffic": null,
+      "categories": [
+        "software"
+      ]
+    },
+    {
       "slug": "github-155030797",
       "name": "MegaBedder/my-awesome-lua",
       "type": "github",
@@ -27143,6 +27469,25 @@
       "monthly_traffic": null,
       "categories": [
         "developer-tools"
+      ]
+    },
+    {
+      "slug": "github-226196314",
+      "name": "adriannovegil/awesome-chaos-engineering",
+      "type": "github",
+      "website_url": "https://github.com/adriannovegil/awesome-chaos-engineering",
+      "submission_url": null,
+      "logo_url": null,
+      "description": "Awesome chaos engineering page",
+      "audience": null,
+      "eligibility": null,
+      "pricing": "unknown",
+      "pricing_note": null,
+      "link_type": "unknown",
+      "domain_rating": null,
+      "monthly_traffic": null,
+      "categories": [
+        "software"
       ]
     },
     {
@@ -41222,7 +41567,7 @@
       "slug": "github-699255058",
       "name": "fdciabdul/awesome-made-by-indonesian",
       "type": "github",
-      "website_url": "https://github.com/taqiin/awesome-made-by-indonesian",
+      "website_url": "https://github.com/fdciabdul/awesome-made-by-indonesian",
       "submission_url": null,
       "logo_url": null,
       "description": "A list of project that is made by Indonesian",
@@ -43329,7 +43674,7 @@
       "slug": "github-824799146",
       "name": "AwesomeHomelab/awesome-homelab",
       "type": "github",
-      "website_url": "https://github.com/AwesomeHomelab/awesome-homelab",
+      "website_url": "https://github.com/agili-app/Awesome.Metrix.Bar",
       "submission_url": null,
       "logo_url": null,
       "description": "Curating Top Open Source Apps for Homelab Enthusiasts",
@@ -44938,6 +45283,25 @@
         "analytics",
         "design",
         "developer-tools"
+      ]
+    },
+    {
+      "slug": "github-914309056",
+      "name": "darelova/Awesome-Design-Resources-List",
+      "type": "github",
+      "website_url": "https://github.com/darelova/Awesome-Design-Resources-List",
+      "submission_url": null,
+      "logo_url": null,
+      "description": "Awesome list with design tools, resources, articles, inspiration",
+      "audience": null,
+      "eligibility": null,
+      "pricing": "unknown",
+      "pricing_note": null,
+      "link_type": "unknown",
+      "domain_rating": null,
+      "monthly_traffic": null,
+      "categories": [
+        "software"
       ]
     },
     {
@@ -47382,6 +47746,25 @@
       }
     },
     {
+      "slug": "grav-gpm",
+      "name": "Grav GPM",
+      "type": "marketplace",
+      "website_url": "https://getgrav.org/downloads/plugins",
+      "submission_url": "https://learn.getgrav.org/2/plugins/gpm-submission",
+      "logo_url": "https://www.google.com/s2/favicons?domain=getgrav.org&sz=64",
+      "description": "The Grav Package Manager repository for installable open-source plugins.",
+      "audience": "Developers of functional Grav plugins with appropriate source, metadata, documentation and licensing.",
+      "eligibility": "Developers of functional Grav plugins with appropriate source, metadata, documentation and licensing.",
+      "pricing": "free",
+      "pricing_note": "The open-source GPM submission process specifies no listing fee. Independent commercial listings are a different, unlaunched proposal.",
+      "link_type": "dofollow",
+      "domain_rating": 85,
+      "monthly_traffic": 6500,
+      "categories": [
+        "developer-tools"
+      ]
+    },
+    {
       "slug": "grc",
       "name": "r/grc",
       "type": "subreddit",
@@ -48168,6 +48551,25 @@
         "promotion_mode": "restricted",
         "rules_url": "https://www.reddit.com/r/homeassistant/about/rules"
       }
+    },
+    {
+      "slug": "homebrew-cask",
+      "name": "Homebrew Cask",
+      "type": "marketplace",
+      "website_url": "https://formulae.brew.sh/cask/",
+      "submission_url": "https://github.com/Homebrew/homebrew-cask/pulls",
+      "logo_url": "https://www.google.com/s2/favicons?domain=formulae.brew.sh&sz=64",
+      "description": "Homebrew's cask repository for native applications and supported binary software.",
+      "audience": "Software satisfying Homebrew's current cask acceptance policy, supported artifact types and maintenance requirements.",
+      "eligibility": "Software satisfying Homebrew's current cask acceptance policy, supported artifact types and maintenance requirements.",
+      "pricing": "free",
+      "pricing_note": "The community cask contribution process has no listing fee.",
+      "link_type": "nofollow",
+      "domain_rating": 90,
+      "monthly_traffic": 48100,
+      "categories": [
+        "software"
+      ]
     },
     {
       "slug": "homebrewcomputer",
@@ -52261,30 +52663,6 @@
       }
     },
     {
-      "slug": "letterranks-cb-insights",
-      "name": "CB Insights",
-      "type": "newsletter",
-      "website_url": "https://cbinsights.com",
-      "submission_url": null,
-      "logo_url": "https://www.google.com/s2/favicons?domain=cbinsights.com&sz=64",
-      "description": "The CB Insights Newsletter provides data-driven rundowns on emerging tech trends, venture capital funding, and private company markets.",
-      "audience": "It targets business leaders, corporate strategists, investors, and tech professionals looking to stay ahead of market movements.",
-      "eligibility": null,
-      "pricing": "unknown",
-      "pricing_note": null,
-      "link_type": "dofollow",
-      "domain_rating": null,
-      "monthly_traffic": null,
-      "categories": [],
-      "newsletter": {
-        "category": "business",
-        "topic": "startups",
-        "platform": "other",
-        "subscribers": 800000,
-        "open_rate": 35
-      }
-    },
-    {
       "slug": "letterranks-demand-curve",
       "name": "Demand Curve",
       "type": "newsletter",
@@ -54034,6 +54412,25 @@
       }
     },
     {
+      "slug": "logseq-marketplace",
+      "name": "Logseq Marketplace",
+      "type": "marketplace",
+      "website_url": "https://logseq.com/",
+      "submission_url": "https://github.com/logseq/marketplace",
+      "logo_url": "https://www.google.com/s2/favicons?domain=logseq.com&sz=64",
+      "description": "The official Logseq plugin marketplace, populated through reviewed package manifests.",
+      "audience": "Developers releasing a functioning Logseq plugin with a public repository and a release ZIP.",
+      "eligibility": "Developers releasing a functioning Logseq plugin with a public repository and a release ZIP.",
+      "pricing": "free",
+      "pricing_note": "The community marketplace uses a public pull-request contribution process without a listing fee.",
+      "link_type": "dofollow",
+      "domain_rating": 72,
+      "monthly_traffic": 72300,
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
       "slug": "lovable",
       "name": "r/lovable",
       "type": "subreddit",
@@ -54193,6 +54590,25 @@
         "promotion_mode": "unknown",
         "rules_url": "https://www.reddit.com/r/ltt/about/rules"
       }
+    },
+    {
+      "slug": "lulu-bookstore",
+      "name": "Lulu Bookstore",
+      "type": "marketplace",
+      "website_url": "https://www.lulu.com/",
+      "submission_url": "https://www.lulu.com/sell/sell-on-lulu",
+      "logo_url": "https://www.google.com/s2/favicons?domain=lulu.com&sz=64",
+      "description": "Lulu's bookstore for selling self-published print books directly to readers.",
+      "audience": "Authors and publishers with rights to a print-ready book. Bookstore eligibility is distinct from Lulu Global Distribution, which excludes some journals and workbooks.",
+      "eligibility": "Authors and publishers with rights to a print-ready book. Bookstore eligibility is distinct from Lulu Global Distribution, which excludes some journals and workbooks.",
+      "pricing": "free",
+      "pricing_note": "Publishing and listing on Lulu Bookstore are free. Lulu advertises an 80% revenue share after printing costs; printing and shipping are not free.",
+      "link_type": "dofollow",
+      "domain_rating": 91,
+      "monthly_traffic": 174400,
+      "categories": [
+        "ecommerce"
+      ]
     },
     {
       "slug": "mac",
@@ -54952,6 +55368,25 @@
         "promotion_mode": "unknown",
         "rules_url": "https://www.reddit.com/r/matrix/about/rules"
       }
+    },
+    {
+      "slug": "mattermost-marketplace",
+      "name": "Mattermost Marketplace",
+      "type": "marketplace",
+      "website_url": "https://mattermost.com/marketplace/",
+      "submission_url": "https://docs.mattermost.com/developers/integrate/marketplace-submissions",
+      "logo_url": "https://www.google.com/s2/favicons?domain=mattermost.com&sz=64",
+      "description": "Mattermost's reviewed marketplace for plugins, integrations, playbooks and supporting tools.",
+      "audience": "Developers of useful Mattermost contributions that can be tested and have documentation and a public issue tracker.",
+      "eligibility": "Developers of useful Mattermost contributions that can be tested and have documentation and a public issue tracker.",
+      "pricing": "free",
+      "pricing_note": "The community contribution process specifies review rather than a listing charge.",
+      "link_type": "dofollow",
+      "domain_rating": 80,
+      "monthly_traffic": 53100,
+      "categories": [
+        "developer-tools"
+      ]
     },
     {
       "slug": "maxibestof",
@@ -55973,6 +56408,25 @@
       }
     },
     {
+      "slug": "moodle-marketplace",
+      "name": "Moodle Marketplace",
+      "type": "marketplace",
+      "website_url": "https://marketplace.moodle.com/",
+      "submission_url": "https://marketplace.moodle.com/plugins/submit",
+      "logo_url": "https://www.google.com/s2/favicons?domain=marketplace.moodle.com&sz=64",
+      "description": "Moodle's marketplace for sharing, selling and managing plugins and integrations.",
+      "audience": "Developers of real Moodle plugins or integrations that meet product-scope and technical policies. A new Marketplace account is required; Moodle.org credentials cannot be reused directly.",
+      "eligibility": "Developers of real Moodle plugins or integrations that meet product-scope and technical policies. A new Marketplace account is required; Moodle.org credentials cannot be reused directly.",
+      "pricing": "unknown",
+      "pricing_note": "Free and paid plugins are supported. Paid sales incur platform fees and require Stripe Connect, terms of sale and support information; review the current fee structure. Do not describe a paid-service integration as free.",
+      "link_type": "nofollow",
+      "domain_rating": 91,
+      "monthly_traffic": 11000,
+      "categories": [
+        "developer-tools"
+      ]
+    },
+    {
       "slug": "morpheapp",
       "name": "r/MorpheApp",
       "type": "subreddit",
@@ -56772,6 +57226,25 @@
         "promotion_mode": "unknown",
         "rules_url": "https://www.reddit.com/r/NixOS/about/rules"
       }
+    },
+    {
+      "slug": "nixpkgs",
+      "name": "Nixpkgs",
+      "type": "marketplace",
+      "website_url": "https://search.nixos.org/packages",
+      "submission_url": "https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md",
+      "logo_url": "https://www.google.com/s2/favicons?domain=search.nixos.org&sz=64",
+      "description": "The Nix package collection used by Nix and NixOS.",
+      "audience": "Contributors able to provide a reproducible, maintained package that satisfies Nixpkgs licensing and contribution policies.",
+      "eligibility": "Contributors able to provide a reproducible, maintained package that satisfies Nixpkgs licensing and contribution policies.",
+      "pricing": "free",
+      "pricing_note": "The package contribution process is free.",
+      "link_type": "dofollow",
+      "domain_rating": 83,
+      "monthly_traffic": 7400,
+      "categories": [
+        "software"
+      ]
     },
     {
       "slug": "nocode",
@@ -59311,7 +59784,7 @@
       "pricing_note": "Adding a project and Launchpad launch are free, while ads are paid.",
       "link_type": "nofollow",
       "domain_rating": 77,
-      "monthly_traffic": 85000,
+      "monthly_traffic": 442086,
       "categories": [
         "community",
         "startup"
@@ -59331,7 +59804,7 @@
       "pricing_note": "The free plan joins a publication queue; one-time paid plans offer immediate publication, permanent links, and optional promotion.",
       "link_type": "dofollow",
       "domain_rating": 73,
-      "monthly_traffic": 6000,
+      "monthly_traffic": 221097,
       "categories": [
         "indie",
         "startup"
@@ -59350,11 +59823,30 @@
       "pricing": "free",
       "pricing_note": "Qualifying enterprise software may be listed without pay-to-play.",
       "link_type": "nofollow",
-      "domain_rating": 74,
-      "monthly_traffic": 14200,
+      "domain_rating": 75,
+      "monthly_traffic": 10300,
       "categories": [
         "business",
         "saas"
+      ]
+    },
+    {
+      "slug": "penpot-hub",
+      "name": "Penpot Hub",
+      "type": "marketplace",
+      "website_url": "https://penpot.app/",
+      "submission_url": "https://penpot.app/penpothub/plugins/submit/plugin",
+      "logo_url": "https://www.google.com/s2/favicons?domain=penpot.app&sz=64",
+      "description": "Penpot's community hub for design-tool plugins.",
+      "audience": "Developers with a working hosted plugin and manifest compatible with Penpot.",
+      "eligibility": "Developers with a working hosted plugin and manifest compatible with Penpot.",
+      "pricing": "unknown",
+      "pricing_note": "The public submission route was verified on November 4, 2026; no general pricing policy was established.",
+      "link_type": "dofollow",
+      "domain_rating": 74,
+      "monthly_traffic": 44600,
+      "categories": [
+        "design"
       ]
     },
     {
@@ -60245,6 +60737,25 @@
       }
     },
     {
+      "slug": "portableapps",
+      "name": "PortableApps.com",
+      "type": "marketplace",
+      "website_url": "https://portableapps.com/",
+      "submission_url": "https://portableapps.com/about/contact",
+      "logo_url": "https://www.google.com/s2/favicons?domain=portableapps.com&sz=64",
+      "description": "A platform for portable application packages and publisher distribution partnerships.",
+      "audience": "Software that can meet PortableApps packaging, portability and licensing requirements, or publishers pursuing a legitimate portability partnership.",
+      "eligibility": "Software that can meet PortableApps packaging, portability and licensing requirements, or publishers pursuing a legitimate portability partnership.",
+      "pricing": "unknown",
+      "pricing_note": "A publisher inquiry does not establish a listing, approval or fee agreement.",
+      "link_type": "dofollow",
+      "domain_rating": 79,
+      "monthly_traffic": 87300,
+      "categories": [
+        "software"
+      ]
+    },
+    {
       "slug": "pos",
       "name": "r/POS",
       "type": "subreddit",
@@ -60738,7 +61249,7 @@
       "pricing_note": "Launching is free; paid visibility boosts exist.",
       "link_type": "nofollow",
       "domain_rating": 91,
-      "monthly_traffic": 253100,
+      "monthly_traffic": 5678000,
       "categories": [
         "indie",
         "saas",
@@ -63937,6 +64448,25 @@
       }
     },
     {
+      "slug": "scoop-extras",
+      "name": "Scoop Extras",
+      "type": "marketplace",
+      "website_url": "https://scoop.sh/",
+      "submission_url": "https://github.com/ScoopInstaller/Extras/issues/new/choose",
+      "logo_url": "https://www.google.com/s2/favicons?domain=scoop.sh&sz=64",
+      "description": "The Scoop Extras bucket for installing additional Windows applications.",
+      "audience": "Maintained Windows applications that satisfy Extras acceptance rules, including stable releases, usable English information and sufficient recognition.",
+      "eligibility": "Maintained Windows applications that satisfy Extras acceptance rules, including stable releases, usable English information and sufficient recognition.",
+      "pricing": "free",
+      "pricing_note": "The package-request and pull-request route has no listing fee.",
+      "link_type": "dofollow",
+      "domain_rating": 78,
+      "monthly_traffic": 10200,
+      "categories": [
+        "software"
+      ]
+    },
+    {
       "slug": "scrapingtheweb",
       "name": "r/scrapingtheweb",
       "type": "subreddit",
@@ -65686,6 +66216,25 @@
       }
     },
     {
+      "slug": "snap-store",
+      "name": "Snap Store",
+      "type": "marketplace",
+      "website_url": "https://snapcraft.io/",
+      "submission_url": "https://snapcraft.io/docs/releasing-your-app",
+      "logo_url": "https://www.google.com/s2/favicons?domain=snapcraft.io&sz=64",
+      "description": "The Snap Store distributes packaged Linux applications through Snapcraft.",
+      "audience": "Publishers with a working Snap package, a verified publisher account and compliant confinement and store metadata.",
+      "eligibility": "Publishers with a working Snap package, a verified publisher account and compliant confinement and store metadata.",
+      "pricing": "free",
+      "pricing_note": "The standard Snap publication route is free.",
+      "link_type": "dofollow",
+      "domain_rating": 84,
+      "monthly_traffic": 89400,
+      "categories": [
+        "software"
+      ]
+    },
+    {
       "slug": "snapmaker",
       "name": "r/snapmaker",
       "type": "subreddit",
@@ -66282,7 +66831,7 @@
       "pricing_note": "SourceForge's create page describes free hosting, downloads, statistics, and global mirrors for open-source projects.",
       "link_type": "dofollow",
       "domain_rating": 92,
-      "monthly_traffic": 2800000,
+      "monthly_traffic": 24480000,
       "categories": [
         "developer-tools"
       ]
@@ -70027,7 +70576,7 @@
       "pricing_note": "The free waiting line is closed to new products; paid launch options include roughly US$4.99 to join the line, US$14.99 fast-track, or US$29.99 to skip the line, with guaranteed launch slots and a permanent backlink.",
       "link_type": "dofollow",
       "domain_rating": 75,
-      "monthly_traffic": 7900,
+      "monthly_traffic": 202880,
       "categories": [
         "indie",
         "startup"
@@ -70327,6 +70876,25 @@
         "promotion_mode": "unknown",
         "rules_url": "https://www.reddit.com/r/Upnote/about/rules"
       }
+    },
+    {
+      "slug": "uptodown",
+      "name": "Uptodown",
+      "type": "marketplace",
+      "website_url": "https://www.uptodown.com/",
+      "submission_url": "https://www.uptodown.dev/",
+      "logo_url": "https://www.google.com/s2/favicons?domain=uptodown.com&sz=64",
+      "description": "An editorially reviewed application distribution platform for Android, Windows and macOS.",
+      "audience": "Developers with a functioning supported application binary, rights to distribute it and accurate publisher details.",
+      "eligibility": "Developers with a functioning supported application binary, rights to distribute it and accurate publisher details.",
+      "pricing": "free",
+      "pricing_note": "Publishing is free for Android, Windows and Mac apps.",
+      "link_type": "dofollow",
+      "domain_rating": 83,
+      "monthly_traffic": 42100000,
+      "categories": [
+        "software"
+      ]
     },
     {
       "slug": "usbchardware",
@@ -72425,6 +72993,25 @@
         "promotion_mode": "unknown",
         "rules_url": "https://www.reddit.com/r/windowsxp/about/rules"
       }
+    },
+    {
+      "slug": "winget",
+      "name": "WinGet",
+      "type": "marketplace",
+      "website_url": "https://learn.microsoft.com/en-us/windows/package-manager/",
+      "submission_url": "https://github.com/microsoft/winget-pkgs",
+      "logo_url": "https://www.google.com/s2/favicons?domain=learn.microsoft.com&sz=64",
+      "description": "Microsoft's Windows Package Manager community repository for installable Windows software.",
+      "audience": "Publishers or contributors with a redistributable Windows installer that meets repository validation and licensing requirements.",
+      "eligibility": "Publishers or contributors with a redistributable Windows installer that meets repository validation and licensing requirements.",
+      "pricing": "free",
+      "pricing_note": "Package-manifest contribution uses the public community repository without a listing fee.",
+      "link_type": "unknown",
+      "domain_rating": 96,
+      "monthly_traffic": 17700000,
+      "categories": [
+        "software"
+      ]
     },
     {
       "slug": "winlator",
