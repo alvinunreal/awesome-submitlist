@@ -4,12 +4,12 @@
 
 <h1 align="center">awesome-submitlist</h1>
 
-<p align="center"><b>3508 places to submit your startup.</b><br>Directories, launch sites, newsletters, communities, subreddits, marketplaces, and the press pages that mention products. With the numbers attached.</p>
+<p align="center"><b>3512 places to submit your startup.</b><br>Directories, launch sites, newsletters, communities, subreddits, marketplaces, and the press pages that mention products. With the numbers attached.</p>
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <a href="https://submitlist.io/catalog"><img src="https://img.shields.io/badge/destinations-3508-6864e5?style=flat-square" alt="3508 destinations"></a>
-  <a href="#how-this-list-is-built"><img src="https://img.shields.io/badge/synced-2026--11--16-6864e5?style=flat-square" alt="synced 2026-11-16"></a>
+  <a href="https://submitlist.io/catalog"><img src="https://img.shields.io/badge/destinations-3512-6864e5?style=flat-square" alt="3512 destinations"></a>
+  <a href="#how-this-list-is-built"><img src="https://img.shields.io/badge/synced-2026--11--23-6864e5?style=flat-square" alt="synced 2026-11-23"></a>
   <a href="#contributing"><img src="https://img.shields.io/badge/PRs-welcome-1f8a4c?style=flat-square" alt="PRs welcome"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC0%201.0-8b8b8b?style=flat-square" alt="CC0 1.0 license"></a>
 </p>
@@ -20,7 +20,7 @@
 
 You built the thing. Now where do you post it? Every list that answers this question is either five years stale, padded with dead domains, or a lead magnet for an agency. This one is none of those. It is generated from the live [Submitlist catalog](https://submitlist.io/catalog), where each site was opened by a person, checked for whether it still takes submissions, and tagged with the four numbers that decide if it is worth your afternoon: Ahrefs Domain Rating, monthly organic traffic, what it costs, and whether the backlink is dofollow.
 
-Dead sites get archived and vanish from here on the next weekly sync. Right now 141 of the 3508 destinations have a Domain Rating of 80 or higher, 237 are free, and 196 give you a dofollow link. The pigeon keeps count.
+Dead sites get archived and vanish from here on the next weekly sync. Right now 141 of the 3512 destinations have a Domain Rating of 80 or higher, 237 are free, and 196 give you a dofollow link. The pigeon keeps count.
 
 ## Contents
 
@@ -70,7 +70,7 @@ The classic move. Fill a form, wait for an editor, get a listing and usually a l
   B2B software discovery and review platform where vendors create product listings for in-market buyers.
 - <a href="https://clutch.co/get-listed"><img src="https://www.google.com/s2/favicons?domain=clutch.co&sz=64" width="16" height="16" alt=""></a> **[Clutch](https://clutch.co/get-listed)** `DR 91` `1.3M visits/mo` `Free` `Nofollow`<br>
   Clutch is a B2B ratings-and-reviews platform that lists and ranks professional service providers using verified client feedback.
-- <a href="https://download.cnet.com/add-your-software/"><img src="https://www.google.com/s2/favicons?domain=download.cnet.com&sz=64" width="16" height="16" alt=""></a> **[CNET Download.com](https://download.cnet.com/add-your-software/)** `DR 91` `1.2M visits/mo` `Free` `Nofollow`<br>
+- <a href="https://download.cnet.com/add-your-software/"><img src="https://www.google.com/s2/favicons?domain=download.cnet.com&sz=64" width="16" height="16" alt=""></a> **[CNET Download.com](https://download.cnet.com/add-your-software/)** `DR 91` `2.9M visits/mo` `Free` `Nofollow`<br>
   CNET Download.com is CNET's software-distribution directory for apps and programs.
 - <a href="https://g2.com"><img src="https://www.google.com/s2/favicons?domain=g2.com&sz=64" width="16" height="16" alt=""></a> **[G2](https://g2.com)** `DR 91` `680K visits/mo` `Free` `Nofollow`<br>
   G2 is a platform where buyers research business software and services using verified user reviews and product profiles.
@@ -92,25 +92,25 @@ The classic move. Fill a form, wait for an editor, get a listing and usually a l
   GeekWire maintains a startup database and ranking for eligible Pacific Northwest technology startups.
 - <a href="https://www.goodfirms.co/get-listed"><img src="https://www.google.com/s2/favicons?domain=goodfirms.co&sz=64" width="16" height="16" alt=""></a> **[GoodFirms](https://www.goodfirms.co/get-listed)** `DR 86` `174K visits/mo` `Free` `Nofollow`<br>
   GoodFirms is a B2B directory for software vendors and service companies with verified profiles, reviews, and category rankings.
-- <a href="https://publishing-center.softonic.com/home"><img src="https://www.google.com/s2/favicons?domain=softonic.com&sz=64" width="16" height="16" alt=""></a> **[Softonic](https://publishing-center.softonic.com/home)** `DR 86` `62M visits/mo` `Free` `Nofollow`<br>
+- <a href="https://publishing-center.softonic.com/home"><img src="https://www.google.com/s2/favicons?domain=softonic.com&sz=64" width="16" height="16" alt=""></a> **[Softonic](https://publishing-center.softonic.com/home)** `DR 86` `53M visits/mo` `Free` `Nofollow`<br>
   Softonic is a software discovery and distribution catalog where developers can publish or manage application listings.
-- <a href="https://www.softpedia.com/user/submit.shtml"><img src="https://www.google.com/s2/favicons?domain=softpedia.com&sz=64" width="16" height="16" alt=""></a> **[Softpedia](https://www.softpedia.com/user/submit.shtml)** `DR 86` `235K visits/mo` `Free` `Dofollow`<br>
+- <a href="https://www.softpedia.com/user/submit.shtml"><img src="https://www.google.com/s2/favicons?domain=softpedia.com&sz=64" width="16" height="16" alt=""></a> **[Softpedia](https://www.softpedia.com/user/submit.shtml)** `DR 86` `3.6M visits/mo` `Free` `Dofollow`<br>
   Softpedia is a software download library where developers submit product listings for editorial selection and publication.
 - <a href="https://getapp.com"><img src="https://www.google.com/s2/favicons?domain=getapp.com&sz=64" width="16" height="16" alt=""></a> **[GetApp](https://getapp.com)** `DR 85` `60K visits/mo` `Free` `Nofollow`<br>
   GetApp is a business software discovery platform with product profiles, reviews, and comparisons across software categories.
 - <a href="https://solutions.trustradius.com/"><img src="https://www.google.com/s2/favicons?domain=trustradius.com&sz=64" width="16" height="16" alt=""></a> **[TrustRadius](https://solutions.trustradius.com/)** `DR 84` `60K visits/mo` `Free` `Dofollow`<br>
   B2B technology review and buyer-intelligence platform where software vendors build product presence and customer-review programs.
-- <a href="https://www.f6s.com/"><img src="https://www.google.com/s2/favicons?domain=f6s.com&sz=64" width="16" height="16" alt=""></a> **[F6S](https://www.f6s.com/)** `DR 83` `274K visits/mo` `Free` `Dofollow`<br>
+- <a href="https://www.f6s.com/"><img src="https://www.google.com/s2/favicons?domain=f6s.com&sz=64" width="16" height="16" alt=""></a> **[F6S](https://www.f6s.com/)** `DR 83` `1.1M visits/mo` `Free` `Dofollow`<br>
   F6S is a global startup platform where founders create company profiles and access funding programs, accelerators, software perks, and jobs.
 - <a href="https://dang.ai/submit"><img src="https://www.google.com/s2/favicons?domain=dang.ai&sz=64" width="16" height="16" alt=""></a> **[Dang.ai](https://dang.ai/submit)** `DR 82` `34K visits/mo` `Paid` `Dofollow`<br>
   Dang.ai is a manually reviewed directory of AI tools and services.
 - <a href="https://www.smartcustomer.com/business"><img src="https://www.google.com/s2/favicons?domain=sitejabber.com&sz=64" width="16" height="16" alt=""></a> **[Sitejabber](https://www.smartcustomer.com/business)** `DR 81` `9K visits/mo` `Free` `Nofollow`<br>
   Sitejabber is an online review platform where consumers rate businesses and companies manage public profiles and feedback.
-- <a href="https://alternativeto.net/manage-item/"><img src="https://alternativeto.net/static/icons/a2/apple-touch-icon.png" width="16" height="16" alt=""></a> **[AlternativeTo](https://alternativeto.net/manage-item/)** `DR 80` `114K visits/mo` `Free` `Nofollow`<br>
+- <a href="https://alternativeto.net/manage-item/"><img src="https://alternativeto.net/static/icons/a2/apple-touch-icon.png" width="16" height="16" alt=""></a> **[AlternativeTo](https://alternativeto.net/manage-item/)** `DR 80` `2.6M visits/mo` `Free` `Nofollow`<br>
   Crowdsourced software directory that recommends alternatives to apps you already know, across desktop, mobile, and web.
 - <a href="https://www.cssdesignawards.com/submit"><img src="https://www.google.com/s2/favicons?domain=cssdesignawards.com&sz=64" width="16" height="16" alt=""></a> **[CSS Design Awards](https://www.cssdesignawards.com/submit)** `DR 80` `13K visits/mo` `Paid` `Dofollow`<br>
   CSS Design Awards is an international web design awards platform that recognizes outstanding websites through daily, monthly, and yearly judged awards.
-- <a href="https://www.saashub.com/services/submit"><img src="https://cdn-b.saashub.com/assets/apple-touch-icon-0c442984b6603bd0c9aac1cff5747ca758ed3b7b14fd1b7a035cf370353f01f2.png" width="16" height="16" alt=""></a> **[SaaSHub](https://www.saashub.com/services/submit)** `DR 80` `5.2K visits/mo` `Free` `Nofollow`<br>
+- <a href="https://www.saashub.com/services/submit"><img src="https://cdn-b.saashub.com/assets/apple-touch-icon-0c442984b6603bd0c9aac1cff5747ca758ed3b7b14fd1b7a035cf370353f01f2.png" width="16" height="16" alt=""></a> **[SaaSHub](https://www.saashub.com/services/submit)** `DR 80` `730K visits/mo` `Free` `Nofollow`<br>
   Independent software marketplace for finding the best software and alternatives, helping software professionals since 2014.
 - <a href="https://www.brownbook.net/register/"><img src="https://www.google.com/s2/favicons?domain=brownbook.net&sz=64" width="16" height="16" alt=""></a> **[Brownbook](https://www.brownbook.net/register/)** `DR 79` `3.5K visits/mo` `Free` `Dofollow`<br>
   Brownbook is a free, editable global business listing database used for business discovery and local-search citations.
@@ -146,7 +146,7 @@ The classic move. Fill a form, wait for an editor, get a listing and usually a l
   SaaSworthy is a software comparison and review platform that tracks software products across categories using an SW Score ranking system.
 - <a href="https://vendor.revleads.com/user/signup"><img src="https://assets.crozdesk.com/assets/favicon-d78d66a9d814d4c4ec75a1e794895d9e5542b2c750fa1621d87d6522f767ff28.ico" width="16" height="16" alt=""></a> **[Crozdesk](https://vendor.revleads.com/user/signup)** `DR 74` `60K visits/mo` `Free` `Nofollow`<br>
   Business software search platform that helps buyers find and compare software across all major categories with rankings, reviews, and pricing.
-- <a href="https://www.fosshub.com/contact.html"><img src="https://www.fosshub.com/media/favicon/favicon-32x32.png" width="16" height="16" alt=""></a> **[FossHub](https://www.fosshub.com/contact.html)** `DR 74` `46K visits/mo` `Free`<br>
+- <a href="https://www.fosshub.com/contact.html"><img src="https://www.fosshub.com/media/favicon/favicon-32x32.png" width="16" height="16" alt=""></a> **[FossHub](https://www.fosshub.com/contact.html)** `DR 74` `465K visits/mo` `Free`<br>
   A software directory accepting listing suggestions through its contact form.
 - <a href="https://pmo.selecthub.com/claim-your-product/"><img src="https://www.google.com/s2/favicons?domain=selecthub.com&sz=64" width="16" height="16" alt=""></a> **[SelectHub](https://pmo.selecthub.com/claim-your-product/)** `DR 74` `17K visits/mo` `Free` `Dofollow`<br>
   SelectHub is a software selection and analyst research platform with product directories, comparisons, requirements tools, and vendor-buyer matching for business and enterprise software.
@@ -164,7 +164,7 @@ The classic move. Fill a form, wait for an editor, get a listing and usually a l
   FeaturedCustomers is a customer-reference platform for B2B software and services that aggregates authenticated testimonials, case studies, success stories, and videos for buyer research.
 - <a href="https://www.futurepedia.io/submit-tool"><img src="https://www.futurepedia.io/favicon.ico" width="16" height="16" alt=""></a> **[Futurepedia](https://www.futurepedia.io/submit-tool)** `DR 72` `66K visits/mo` `Paid` `Nofollow`<br>
   One of the largest AI tool directories, showcasing the best AI tools, GPTs, and apps for professionals, updated daily.
-- <a href="https://www.startupblink.com/startups/add"><img src="https://www.google.com/s2/favicons?domain=startupblink.com&sz=64" width="16" height="16" alt=""></a> **[StartupBlink](https://www.startupblink.com/startups/add)** `DR 72` `13K visits/mo` `Free` `Nofollow`<br>
+- <a href="https://www.startupblink.com/startups/add"><img src="https://www.google.com/s2/favicons?domain=startupblink.com&sz=64" width="16" height="16" alt=""></a> **[StartupBlink](https://www.startupblink.com/startups/add)** `DR 72` `184K visits/mo` `Free` `Nofollow`<br>
   StartupBlink is a global startup-ecosystem research platform and interactive map that lists and ranks startups, ecosystems, and related entities for discovery, benchmarking, and reports.
 - <a href="https://tekpon.com/get-listed/"><img src="https://www.google.com/s2/favicons?domain=tekpon.com&sz=64" width="16" height="16" alt=""></a> **[Tekpon](https://tekpon.com/get-listed/)** `DR 72` `2.9K visits/mo` `Paid` `Dofollow`<br>
   Tekpon is a SaaS procurement and software marketplace that lists tools with profiles, comparisons, reviews, pricing transparency, and buyer-side procurement services.
@@ -196,7 +196,7 @@ The classic move. Fill a form, wait for an editor, get a listing and usually a l
   Sitelike.org is a free tool for finding similar websites and alternatives based on keywords, topics, audience, and popularity.
 - <a href="https://www.webdesign-inspiration.com/web-design-site/submit"><img src="https://www.google.com/s2/favicons?domain=webdesign-inspiration.com&sz=64" width="16" height="16" alt=""></a> **[Web Design Inspiration](https://www.webdesign-inspiration.com/web-design-site/submit)** `DR 66` `3.9K visits/mo` `Free` `Nofollow`<br>
   Web Design Inspiration is a curated gallery of handpicked website designs organized by type, style, color, and industry.
-- <a href="https://startupstash.com/add-listing/"><img src="https://startupstash.com/wp-content/uploads/2018/06/startupstash-icon-90x90-300x300.png" width="16" height="16" alt=""></a> **[Startup Stash](https://startupstash.com/add-listing/)** `DR 65` `20K visits/mo` `Dofollow`<br>
+- <a href="https://startupstash.com/add-listing/"><img src="https://startupstash.com/wp-content/uploads/2018/06/startupstash-icon-90x90-300x300.png" width="16" height="16" alt=""></a> **[Startup Stash](https://startupstash.com/add-listing/)** `DR 65` `113K visits/mo` `Dofollow`<br>
   One of the world's largest curated online directories of tools and resources for startups.
 - <a href="https://topai.tools/submit"><img src="https://www.google.com/s2/favicons?domain=topai.tools&sz=64" width="16" height="16" alt=""></a> **[TopAI.tools](https://topai.tools/submit)** `DR 65` `25K visits/mo` `Paid` `Nofollow`<br>
   TopAI.tools is an AI-tools directory indexing thousands of tools across more than 120 categories for search, comparison, and discovery.
@@ -327,11 +327,11 @@ One day, one shot. Product Hunt is the obvious one and still the biggest. The re
   Aura++ is a product-launch platform where founders schedule daily launches, collect community upvotes, and receive SEO assets such as structured pages, backlinks, and launch stories.
 - <a href="https://openhunts.com/projects/submit"><img src="https://www.google.com/s2/favicons?domain=openhunts.com&sz=64" width="16" height="16" alt=""></a> **[OpenHunts](https://openhunts.com/projects/submit)** `DR 70` `4.9K visits/mo` `Free` `Dofollow`<br>
   OpenHunts is a product launch and discovery platform positioned as an open alternative to Product Hunt for makers and startups.
-- <a href="https://pitchwall.co/submit"><img src="https://www.google.com/s2/favicons?domain=pitchwall.co&sz=64" width="16" height="16" alt=""></a> **[PitchWall](https://pitchwall.co/submit)** `DR 68` `15K visits/mo` `Free` `Dofollow`<br>
+- <a href="https://pitchwall.co/submit"><img src="https://www.google.com/s2/favicons?domain=pitchwall.co&sz=64" width="16" height="16" alt=""></a> **[PitchWall](https://pitchwall.co/submit)** `DR 68` `158K visits/mo` `Free` `Dofollow`<br>
   PitchWall showcases selected startups and digital technology products for discovery and visibility.
 - <a href="https://devhunt.org/"><img src="https://www.google.com/s2/favicons?domain=devhunt.org&sz=64" width="16" height="16" alt=""></a> **[DevHunt](https://devhunt.org/)** `DR 63` `108K visits/mo` `Free` `Dofollow`<br>
   DevHunt is an open-source, community-driven Product Hunt-style launchpad focused exclusively on developer tools.
-- <a href="https://www.startupranking.com/startup/create"><img src="https://www.google.com/s2/favicons?domain=startupranking.com&sz=64" width="16" height="16" alt=""></a> **[Startup Ranking](https://www.startupranking.com/startup/create)** `DR 62` `11K visits/mo` `Free` `Dofollow`<br>
+- <a href="https://www.startupranking.com/startup/create"><img src="https://www.google.com/s2/favicons?domain=startupranking.com&sz=64" width="16" height="16" alt=""></a> **[Startup Ranking](https://www.startupranking.com/startup/create)** `DR 62` `118K visits/mo` `Free` `Dofollow`<br>
   Startup Ranking is a platform that discovers and ranks startups worldwide using an SR Score based on web importance and social influence, with country and state rankings.
 - <a href="https://www.launchvault.dev/projects/submit"><img src="https://www.launchvault.dev/logo.svg" width="16" height="16" alt=""></a> **[Launch Vault](https://www.launchvault.dev/projects/submit)** `DR 55` `1.1K visits/mo` `Paid` `Dofollow`<br>
   Curated daily product-launch platform where makers publish technology products, receive votes, and compete for discovery placements.
@@ -3831,7 +3831,7 @@ App, extension, and plugin stores. Listing here is distribution, not PR. Reviews
   The official Logseq plugin marketplace, populated through reviewed package manifests.
 - <a href="https://www.hacs.xyz/docs/publish/include/"><img src="https://www.google.com/s2/favicons?domain=hacs.xyz&sz=64" width="16" height="16" alt=""></a> **[HACS](https://www.hacs.xyz/docs/publish/include/)** `DR 71` `10K visits/mo` `Free`<br>
   HACS is the Home Assistant Community Store for discovering custom integrations, dashboard cards, themes, and other community extensions.
-- <a href="https://www.sideprojectors.com/submit/type"><img src="https://www.google.com/s2/favicons?domain=sideprojectors.com&sz=64" width="16" height="16" alt=""></a> **[SideProjectors](https://www.sideprojectors.com/submit/type)** `DR 70` `5.2K visits/mo` `Free` `Nofollow`<br>
+- <a href="https://www.sideprojectors.com/submit/type"><img src="https://www.google.com/s2/favicons?domain=sideprojectors.com&sz=64" width="16" height="16" alt=""></a> **[SideProjectors](https://www.sideprojectors.com/submit/type)** `DR 70` `162K visits/mo` `Free` `Nofollow`<br>
   Marketplace for buying, selling, promoting, and showcasing digital products and side projects.
 - <a href="https://www.spotsaas.com/get-listed"><img src="https://www.google.com/s2/favicons?domain=spotsaas.com&sz=64" width="16" height="16" alt=""></a> **[Spot SaaS](https://www.spotsaas.com/get-listed)** `DR 67` `25K visits/mo` `Free` `Dofollow`<br>
   Spot SaaS is a curated B2B software marketplace and comparison site where buyers research, compare, and shortlist business software products.
@@ -4102,4 +4102,4 @@ Do not send pull requests that edit `README.md` directly. It is generated, and t
 
 [CC0 1.0](LICENSE). The list is public domain. Domain Rating figures are provided by Ahrefs under their [Domain Rating license](http://ahrefs.com/legal/domain-rating-license).
 
-<p align="center"><sub>Maintained by <a href="https://github.com/alvinunreal">Alvin</a> · Built from <a href="https://submitlist.io/catalog">submitlist.io/catalog</a> · Last synced 2026-11-16</sub></p>
+<p align="center"><sub>Maintained by <a href="https://github.com/alvinunreal">Alvin</a> · Built from <a href="https://submitlist.io/catalog">submitlist.io/catalog</a> · Last synced 2026-11-23</sub></p>
